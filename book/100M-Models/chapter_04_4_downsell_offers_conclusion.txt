@@ -1,0 +1,33 @@
+TITLE: $100M Money Models - Chương 4.4 - Downsell Offers Conclusion
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Downsell Offers, offer strategy
+---
+
+## 🧠 Core Mindsets
+* **Bản chất của con người:** "Mọi người đều mua một thứ gì đó." (Everybody buys something.).
+* **Mục đích của Downsell:** Downsell mang lại cho bạn một cơ hội khác để có được khách hàng bằng cách biến những lời từ chối ("Không") thành lời đồng ý ("Có").
+* **Tăng trưởng nhanh:** Số tiền mặt kiếm thêm từ Downsell giúp tăng lợi nhuận 30 ngày (30-day profits) và đẩy doanh nghiệp vượt qua các mục tiêu ban đầu.
+* **Tư duy về sản phẩm:** Vấn đề không phải là có một trăm sản phẩm khác nhau, mà là có một **trăm lời chào hàng khác nhau cho cùng một sản phẩm**.
+
+## 💡 Counter-intuitive Views
+* **Không bao giờ giảm giá cho cùng một sản phẩm:** Lời chào hàng không bao giờ là "cùng một sản phẩm nhưng rẻ hơn". Bạn luôn phải điều chỉnh lại (tweak) lời chào hàng để làm cho nó trở thành "món hời tốt nhất cho khách hàng".
+* **Downsell là cây cầu:** Downsell là cầu nối giữa việc kiếm tiền nhanh chóng (Attraction, Upsell) và việc kiếm tiền ổn định, dài hạn (Continuity).
+
+## 🎣 Hooks & Angles
+* "Mọi người đều mua một thứ gì đó." (Everybody buys something.).
+
+## 🛠️ Frameworks & Strategies
+* **3 Quy trình Downsell Quyền lực:**
+    1. Payment Plan Downsells (Downsell Kế hoạch Thanh toán).
+    2. Trial With Penalty (Dùng thử kèm Phạt).
+    3. Feature Downsells (Downsell Tính năng).
+* **Giai đoạn tiếp theo:** Sau Downsell, Money Model chuyển sang giai đoạn cuối cùng là Chào hàng Liên tục (Continuity Offers): làm thế nào để giữ khách hàng mua hàng mãi mãi.
+
+## 💬 Golden Quotes
+* > "Downsell mang lại cho bạn một cơ hội khác để có được khách hàng bằng cách biến những lời từ chối ('Không') thành lời đồng ý ('Có')."
+* > "Vấn đề không phải là có một trăm sản phẩm khác nhau, mà là có một trăm lời chào hàng khác nhau cho cùng một sản phẩm."
+* > "Chúng ta chỉ cần tiếp tục điều chỉnh lời chào hàng cho đến khi nó trở thành món hời tốt nhất cho họ."
