@@ -1,0 +1,44 @@
+TITLE: $100M Money Models - Chương 4.1 - Payment Plan Downsells
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Downsell Offers, payment plan downsells, offer strategy
+---
+
+## 🧠 Core Mindsets
+* **Bản chất của Downsell Kế hoạch Thanh toán:** Kéo dài chi phí của sản phẩm bằng cách thu một phần trả trước và lên lịch cho phần còn lại.
+* **Mục tiêu kép:** Kế hoạch thanh toán thu hút nhiều người mua hơn (vì chi phí trả trước thấp) và **tăng lợi nhuận** (vì khách hàng vẫn trả đủ giá theo thời gian).
+* **Đánh bạc thông minh:** Kế hoạch thanh toán là một canh bạc. Để thắng, bạn cần có thêm khách hàng *mới* và đảm bảo họ *hoàn thành* các khoản thanh toán của mình.
+* **Tư duy đồng đội:** Khi khách hàng nói "Không đủ khả năng," hãy kéo ghế của bạn lại bên cạnh họ và biến việc bán hàng thành một "nỗ lực hợp tác" để tìm ra giải pháp.
+
+## 💡 Counter-intuitive Views
+* **Ý nghĩa thực sự của "Đắt":** Rất nhiều lần, "nó quá đắt" thực sự có nghĩa là "chi phí **trả trước** quá cao" (this costs too much up front).
+* **Thưởng thay vì Phạt:** Thay vì tính lãi suất (phạt) cho việc trả chậm, hãy trình bày giá trọn gói cao hơn và đưa ra **chiết khấu** (Reward) nếu họ trả đủ một lần (prepay).
+* **Nguy cơ lớn nhất:** Bạn mất tiền nhiều nhất khi chuyển những khách hàng có khả năng trả đủ (paid in full) sang kế hoạch trả góp, và họ lại hủy ngang.
+* **Ổn định dòng tiền 30 ngày:** Lên lịch thanh toán dựa trên **ngày nhận lương** (paychecks) sẽ thúc đẩy lợi nhuận 30 ngày tốt hơn nhiều so với thanh toán hàng tháng.
+
+## 🎣 Hooks & Angles
+* **Câu hỏi mở màn:** "Bạn có thể đặt cọc bao nhiêu hôm nay?" (How much can you put down today?).
+* **Đánh giá quyết tâm:** "Nghiêm túc nhé. Theo thang điểm 1-10, bạn muốn tham gia chương trình này đến mức nào?". (Cần 8 trở lên).
+* **Tái cấu trúc tiêu cực:** "Bạn muốn trả các khoản hàng tháng khổng lồ, hay các khoản nhỏ xíu?" (Sử dụng ngôn ngữ tiêu cực về trả góp để làm nổi bật lợi ích của việc trả trước).
+
+## 🛠️ Frameworks & Strategies
+* **Quy trình Downsell 7 Bước (Ngừng khi mua):**
+    1. **Thưởng trả đủ:** Đưa ra giá cao hơn, sau đó đưa ra **chiết khấu** nếu trả đủ 1 lần (thưởng, không phạt).
+    2. **Tài chính bên thứ 3:** Đề nghị tài trợ từ bên thứ 3 (họ trả bạn ngay, khách trả họ sau), thẻ tín dụng, hoặc giữ hàng (Layaway - trả đủ mới nhận hàng).
+    3. **Nửa trước, Nửa sau (Half Now, Half Later):** Chia 2 lần thanh toán, căn cứ vào ngày nhận lương tiếp theo.
+    4. **Kiểm tra mong muốn:** Hỏi thang điểm 1-10 (Nếu dưới 8, chuyển sang Feature Downsells).
+    5. **Chia 3 lần:** Chia thành 3 lần thanh toán (1/3 bây giờ, 2/3 sau).
+    6. **Trả đều đặn:** Chia đều thanh toán theo thời gian cung cấp dịch vụ (ví dụ: trả hàng tuần).
+    7. **Dùng thử Miễn phí:** Chào hàng Dùng thử có điều kiện với thẻ tín dụng (Trial With Penalty - chương tiếp theo).
+* **Upsell trong Kế hoạch:** Định kỳ chào hàng lại **chiết khấu trả trước ban đầu** cho khách hàng đang trả góp. Nếu họ thanh toán hết số dư còn lại, họ vẫn nhận được chiết khấu đó.
+* **Giảm thiểu Thẻ bị Từ chối:** **Căn chỉnh lịch thanh toán với lịch nhận lương** của khách hàng. Chạy lại thẻ bị từ chối vài lần trong ngày đó.
+* **Seesaw Downselling:** Trình bày giá theo thứ tự **Tiền mặt upfront nhiều nhất** đến **Trả góp đều nhất**, dần dần dịch chuyển khách hàng theo chiều họ chấp nhận.
+
+## 💬 Golden Quotes
+* > "Họ có thể khiến bạn trả ít hơn ngay lúc đó, nhưng họ cũng tăng lợi nhuận của bạn bằng cách khiến bạn trả đủ giá theo thời gian."
+* > "Thay đổi cách khách hàng thanh toán có thể tạo ra sự khác biệt lớn về thời gian họ ở lại."
+* > "Kế hoạch thanh toán chỉ phát triển doanh nghiệp của bạn nếu chúng có thêm khách hàng và những khách hàng đó thực sự trả tiền."
+* > "Tôi đặt cược khi tôi biết tôi sẽ thắng."
