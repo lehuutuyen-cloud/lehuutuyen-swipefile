@@ -1,0 +1,23 @@
+{
+  "project": "lehuutuyen-swipefile",
+  "version": "1.0",
+  "description": "Kho tri thức chiết xuất từ sách, mỗi chương gồm 5 thành tố tư duy",
+  "structure": {
+    "root": "books/",
+    "chapter_template": "templates/chapter_template.txt",
+    "chapter_format": [
+      "Core Mindsets",
+      "Counter-intuitive Views",
+      "Hooks & Angles",
+      "Frameworks & Strategies",
+      "Golden Quotes"
+    ]
+  },
+  "usage": {
+    "query_examples": [
+      "Tìm những Core Mindsets liên quan đến tập trung",
+      "So sánh Frameworks trong hai cuốn khác nhau",
+      "Trích toàn bộ Golden Quotes của 'The One Thing'"
+    ]
+  }
+}
