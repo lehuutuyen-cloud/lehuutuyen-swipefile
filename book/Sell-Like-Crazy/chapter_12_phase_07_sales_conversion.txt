@@ -1,0 +1,51 @@
+TITLE: Sell Like Crazy - PHASE 7 - Sales Conversion
+BOOK: Sell Like Crazy
+AUTHOR: Sabri Suby
+URL: [Link sách/Nguồn]
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-12
+TAGS: Sabri Suby, marketing, sales, sales script, sales conversion, sell like a doctor, booknote, sell like crazy
+---
+
+## 🧠 Core Mindsets
+* Kê đơn (bán hàng) mà không chẩn đoán là hành vi sai trái (malpractice).
+* 90% nhân viên bán hàng làm sai: họ "nôn mửa" tính năng và lợi ích (vomit features and benefits).
+* Bán hàng như bác sĩ: Tập trung 100% vào việc chẩn đoán chính xác vấn đề, chứ không phải vào việc bán sản phẩm.
+* Nếu bạn không thể giúp khách hàng tiềm năng, hãy nói thẳng cho họ biết. Đừng bán hàng cho họ.
+* Thay đổi tâm lý cuộc bán hàng: Sử dụng khảo sát/đơn đăng ký để khiến khách hàng "yêu cầu sự giúp đỡ của bạn" và "vượt qua các vòng để nói chuyện với bạn".
+* Chứng minh bạn có thể giúp họ bằng cách *thực sự giúp đỡ họ* ngay trong cuộc gọi bán hàng (cung cấp giá trị trước).
+* Khi trình bày giải pháp (đơn thuốc), hãy tập trung vào kết quả cuối cùng (end result), không phải quy trình (process).
+* Khi chốt sale: "Người nói trước, thua cuộc" (The person who speaks first, loses).
+
+## 💡 Counter-intuitive Views
+* Đừng "nôn mửa tính năng". Thay vào đó, hãy hỏi "Bạn đau ở đâu?".
+* Đừng bán hàng cho những khách hàng không phù hợp (bad fit), ngay cả khi họ muốn mua.
+* Thay vì bạn bán hàng cho khách hàng, hãy sử dụng các câu hỏi để "lật ngược thế cờ" (turn the tables) và khiến khách hàng tự bán (qualify) chính họ cho bạn.
+* Câu hỏi lật ngược thế cờ: "Tại sao bạn cảm thấy mình sẽ là một ứng cử viên tốt cho chương trình này?".
+
+## 🎣 Hooks & Angles
+* "Bán hàng như một Bác sĩ" (Sell Like A Doctor).
+* "Kê đơn mà không chẩn đoán là hành vi sai trái".
+* Phép ẩn dụ về món khai vị (hors d’oeuvre): Cho khách hàng nếm thử một giá trị nhỏ (trên cuộc gọi) và họ sẽ "đặt hàng nửa cái thực đơn" (mua dịch vụ của bạn).
+* Câu hỏi "thần thánh" của Dan Sullivan: "Nếu chúng ta nói chuyện sau 12 tháng nữa... điều gì cần phải xảy ra để bạn hạnh phúc?".
+
+## 🛠️ Frameworks & Strategies
+* **Mô hình "Bán hàng như Bác sĩ" (Sell Like A Doctor Script):**
+    1.  **Chuẩn bị (Pre-call):** Bắt buộc khách hàng tiềm năng điền vào một khảo sát/đơn đăng ký (survey/application) để chẩn đoán và thay đổi tâm lý.
+    2.  **Bước 1: Tìm 'Why?'**: Hỏi "Tôi có thể giúp gì cho bạn?" và "im lặng lắng nghe" (shut up and listen).
+    3.  **Bước 2: Tìm 'Đích đến'**: Hỏi "Họ muốn đến đâu?" (Sử dụng Câu hỏi Dan Sullivan).
+    4.  **Bước 3: Sự thừa nhận (The Admission)**: Khiến họ thừa nhận những gì họ đang làm *không* hiệu quả và vấn đề này *quan trọng* (thang điểm 1-10).
+    5.  **Bước 4: Cung cấp Giá trị (Delivering Value)**: Cung cấp một "món khai vị" (hors d'oeuvre) – một giải pháp/giá trị nhỏ ngay lập tức trên cuộc gọi để chứng minh bạn có thể giúp họ.
+    6.  **Bước 5: Lấy Cam kết**: Hỏi xem giải pháp nhỏ đó có phải là điều họ đang tìm kiếm không.
+    7.  **Bước 6: Kê đơn (The Prescription)**: *Lần đầu tiên* trình bày dịch vụ của bạn (trong 2 phút), tập trung vào kết quả.
+    8.  **Bước 7: Chốt sale (The Close)**:
+        * Hỏi "Ngoài tiền bạc..." (Other than money...).
+        * Hỏi "Tại sao bạn là ứng cử viên tốt?" (Why are you a good candidate?).
+        * Nêu giá (State your price).
+        * Sử dụng **"Fast Action Bonus" (FAB)** (ví dụ: "miễn phí setup 1.000 đô la" nếu quyết định ngay).
+        * Im lặng (The person who speaks first, loses).
+
+## 💬 Golden Quotes
+* > "Kê đơn mà không chẩn đoán là hành vi sai trái." (A prescription without a diagnosis is malpractice.)
+* > "Người nói trước, thua cuộc." (The person who speaks first, loses.)
+* > "Hãy làm cho khách hàng tiềm năng của bạn cảm thấy rằng bạn đang cố gắng giúp họ giải quyết vấn đề, chứ không phải đang cố bán cho họ một thứ gì đó."
