@@ -1,0 +1,57 @@
+TITLE: $100M Money Models - SUMMARY
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteSummary
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, business strategy, recurring revenue, offer framework, summary
+
+---
+
+# 📚 Tổng hợp Sách: $100M Money Models
+
+## 🧠 Core Mindsets (Tư duy Cốt lõi)
+* [cite_start]**Mô hình Tiền tệ (Money Model)** là một chuỗi các lời chào hàng được thiết kế để tăng số lượng khách hàng bạn có, số tiền họ trả, và tốc độ họ trả tiền[cite: 3101].
+* [cite_start]**Mục tiêu tối thượng** của Money Model là xây dựng một mô hình kiếm tiền khiến đối thủ của bạn **không thể hoạt động có lợi nhuận**[cite: 6100].
+* **Vượt qua Nghi ngờ:** Sự tự tin đến từ việc cung cấp cho bản thân một **chồng bằng chứng không thể phủ nhận** rằng bạn là người bạn nói bạn là. [cite_start]Hãy **làm việc chăm chỉ hơn sự nghi ngờ bản thân**[cite: 3139].
+* [cite_start]**Quy luật Sống còn:** Bạn không thể thua nếu bạn không bỏ cuộc. [cite: 3139]
+* [cite_start]**Chiến thắng là kiếm tiền từ mọi người:** Mục tiêu là biến **100% khách hàng tiềm năng thành người mua một thứ gì đó**[cite: 6206], không phải chỉ người mua gói đắt nhất.
+* [cite_start]**Tư duy Dòng tiền:** Ưu tiên kiếm đủ tiền mặt để trang trải chi phí có được và phục vụ khách hàng **trong vòng 30 ngày**[cite: 3089].
+
+---
+
+# 💡 Counter-intuitive Views (Góc nhìn Mới / Phản trực giác)
+* **Upsell $100M:** Lời chào hàng đầu tiên của bạn **không cần phải tạo ra lợi nhuận**; Upsell thường tạo ra phần lớn lợi nhuận. [cite_start]Việc bán thêm có thể tăng lợi nhuận gộp lên gấp **11.6 lần**[cite: 5323].
+* [cite_start]**Bán bằng cách Unsell:** Chủ động **gạch bỏ** những sản phẩm khách hàng không cần sẽ xây dựng đủ thiện chí để họ chấp nhận Upsell những thứ họ cần[cite: 5344].
+* **Downsell không phải là Giảm giá:** Downsell là việc **thay đổi nội dung (What) hoặc cách thức thanh toán (How)**, không phải giảm giá cùng một sản phẩm/dịch vụ. [cite_start]Việc giảm giá cùng một sản phẩm sẽ phá hủy lòng tin[cite: 5412].
+* [cite_start]**Sử dụng Phạt để Bán Cam kết:** Phí thiết lập (setup fee) được làm cho *rất lớn* (3-5x tỷ lệ hàng tháng) để người mua cam kết vào hợp đồng dài hạn nhằm **tránh** trả phí đó (Waived Fee Offer)[cite: 6069].
+* [cite_start]**Khách hàng Trả tiền Ngay lập tức:** Trong Rollover Upsell, trải đều khoản tín dụng (credit) thành giảm giá hàng tháng trong 12 tháng khiến khách hàng bắt đầu trả tiền **ngay lập tức**[cite: 2073].
+
+---
+
+# 🛠️ Frameworks & Strategies (Mô hình & Chiến lược)
+
+## 🎯 Cấu trúc $100M Money Model (4 Loại Chào hàng)
+| Loại Chào hàng | Mục tiêu | Trích dẫn Vàng |
+| :--- | :--- | :--- |
+| **1. Attraction Offers** | [cite_start]Biến người lạ thành khách hàng; giảm CAC xuống 0[cite: 3092]. | "Giảm giá lớn nhất chính là miễn phí." |
+| **2. Upsell Offers** | [cite_start]Tối đa hóa lợi nhuận 30 ngày; giải quyết vấn đề mới phát sinh[cite: 5316]. | "Bạn không thể có X mà không có Y!" |
+| **3. Downsell Offers** | [cite_start]Chuyển đổi những người nói "Không" bằng cách điều chỉnh giá trị hoặc cách thanh toán[cite: 5394]. | "Mọi người đều mua một thứ gì đó." |
+| **4. Continuity Offers** | Kiếm tiền liên tục (recurring revenue) bằng cách cung cấp giá trị ổn định. | [cite_start]"Bạn có thể xén lông cừu suốt đời, nhưng bạn chỉ có thể lột da nó một lần." [cite: 5801] |
+
+## 🛠️ Các Mô hình Ưu việt
+* [cite_start]**Win Your Money Back (Attraction):** Khách hàng trả tiền cọc, nhận lại dưới dạng **Tín dụng Cửa hàng (Store Credit)** nếu đạt được kết quả, khuyến khích họ Upsell vào gói dài hạn[cite: 2063].
+* [cite_start]**Anchor Upsell:** Chào hàng gói cực kỳ đắt tiền (\$5,000) trước (Anchor) để làm nổi bật gói chính (\$500) thành món hời không thể chối từ[cite: 3109].
+* [cite_start]**Rollover Upsell:** Ghi có khoản thanh toán trước đó của khách hàng vào một gói đắt tiền hơn (thường là gói thành viên dài hạn) để ngăn chặn hủy bỏ (churn)[cite: 2063].
+* [cite_start]**Payment Plan Downsell (7 Bước):** Thay vì giảm giá, đưa ra các tùy chọn thanh toán linh hoạt, bắt đầu với **thưởng chiết khấu** cho việc trả đủ một lần, sau đó giảm dần số tiền trả trước[cite: 3115].
+* **Trial With Penalty (Downsell):** Cho phép dùng thử miễn phí, nhưng yêu cầu khách hàng tuân thủ các quy tắc. [cite_start]Nếu không tuân thủ, họ phải trả phí phạt để thúc đẩy hành động[cite: 3117].
+* [cite_start]**Chiến lược 13 Chu kỳ:** Chuyển từ thanh toán hàng tháng sang thanh toán 4 tuần một lần (28 ngày) để có thêm **chu kỳ thanh toán thứ 13** mỗi năm, tăng doanh thu 8.3% và tăng lợi nhuận lên đến 41%[cite: 6001, 6003].
+
+---
+
+# 💬 Golden Quotes (Trích dẫn Vàng)
+* > "Upsell giải quyết vấn đề mà lời chào hàng của bạn bộc lộ."
+* [cite_start]> "Bạn không thể có một chiếc xe đạp mà không có mũ bảo hiểm!" [cite: 1573]
+* > "Bạn không thương lượng với những kẻ khủng bố (business terrorists)."
+* [cite_start]> "Vấn đề không phải là có một trăm sản phẩm khác nhau, mà là có một trăm lời chào hàng khác nhau cho cùng một sản phẩm." [cite: 5795, 6228]
+* > "Điều duy nhất tốt hơn việc khiến ai đó mua một lần, là khiến họ mua lại."
