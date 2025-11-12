@@ -1,0 +1,33 @@
+TITLE: The One Thing - Chương 2 - HIỆU ỨNG DOMINO
+BOOK: The One Thing (Điều ý nghĩa nhất cuộc đời)
+AUTHOR: Gary Keller & Jay Papasan
+URL: lehuutuyen.com
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-12
+TAGS: Gary Keller, Jay Papasan, The One Thing, booknote, productivity, focus, domino-effect
+---
+
+## 🧠 Core Mindsets
+* [cite_start]Thành công là "nhắm tới những điều không tưởng"[cite: 165]. [cite_start]Chúng hoàn toàn có thể đạt được nếu bạn ưu tiên và dồn tâm sức vào "điều quan trọng nhất"[cite: 166].
+* [cite_start]Thành công được xây dựng "một cách tuần tự"[cite: 185]. [cite_start]Nó là việc làm đúng "điều quan trọng nhất" tại từng thời điểm[cite: 185].
+* [cite_start]Những gì khởi đầu một cách *tuyến tính* (làm từng việc một) sẽ dần trở thành dây chuyền *cấp số nhân* (kết quả bùng nổ)[cite: 175].
+* [cite_start]Giai đoạn đầu của thành công thường bắt đầu chậm đến mức "không đáng chú ý", nhưng khi đã có đà, nó sẽ đạt tốc độ "khó hãm lại"[cite: 154].
+
+## 💡 Counter-intuitive Views
+* Hiệu ứng domino không chỉ là *tuyến tính* (xô đổ nhiều thứ). [cite_start]Nó là *cấp số nhân* (geometric progression): Một quân domino nhỏ có thể xô đổ một quân domino khác lớn gấp rưỡi nó[cite: 142].
+* [cite_start]Thành quả đáng kinh ngạc thường diễn ra "theo tuần tự, nhưng không đồng thời"[cite: 174]. (Điều này phản bác lại tư duy đa nhiệm hoặc mong muốn thành công ngay lập tức).
+
+## 🎣 Hooks & Angles
+* [cite_start]**Hook Hình ảnh (Visual Hook):** Một cú chạm nhẹ vào quân domino 5cm [cite: 156] [cite_start]có thể khởi đầu một chuỗi phản ứng xô đổ một quân domino cao hơn tháp Eiffel (thứ 23) hay đỉnh Everest (thứ 31)[cite: 162].
+* [cite_start]**Hook Cực đoan (Extreme Hook):** Chuỗi domino thứ 57 thực tế có thể "bắc cầu" từ Trái Đất đến Mặt Trăng[cite: 163]. (Đây là một mồi câu tuyệt vời để phá vỡ niềm tin giới hạn của khách hàng về tiềm năng).
+
+## 🛠️ Frameworks & Strategies
+* **Chiến lược "Domino Chủ chốt" để Thành công:**
+    1.  [cite_start]**Xác định:** Cuộc sống không tự sắp xếp sẵn ưu tiên cho bạn[cite: 170].
+    2.  [cite_start]**Sắp xếp:** Bạn phải chủ động "sắp xếp lại các ưu tiên"[cite: 172].
+    3.  [cite_start]**Tập trung:** Tìm ra quân domino "chủ chốt" (The One Thing)[cite: 172].
+    4.  [cite_start]**Hành động:** Tác động "đủ lực" (dồn hết tâm sức) vào nó để bắt đầu chuỗi phản ứng[cite: 172].
+
+## 💬 Golden Quotes
+* [cite_start]> "Những gì khởi đầu một cách tuyến tính sẽ dần trở thành dây chuyền cấp số nhân." [cite: 175]
+* [cite_start]> "Thành công được xây dựng một cách tuần tự. Đó là “điều quan trọng nhất” tại từng thời điểm." [cite: 185]
