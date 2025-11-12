@@ -1,0 +1,41 @@
+TITLE: $100M Money Models - Chương 4.2 - Trial With Penalty
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Downsell Offers, trial with penalty, accountability
+---
+
+## 🧠 Core Mindsets
+* **Mục tiêu:** Cho khách hàng dùng thử miễn phí với điều kiện họ phải tuân thủ các quy tắc. Nếu không tuân thủ, họ phải trả tiền phạt (penalty).
+* **Tính giữ chân:** Điều kiện (terms) nên là những hành động tạo ra khách hàng tuyệt vời (excellent customers), giống như tiêu chí của Win Your Money Back.
+* **Loại bỏ rào cản:** Mô hình này loại bỏ rào cản chi phí trả trước (up front cost), nhưng vẫn đảm bảo khách hàng cam kết thực hiện công việc.
+* **Kép hóa Tỷ lệ chuyển đổi:** Downsell bằng Trial With Penalty có thể tăng tỷ lệ chốt sale (close rate) đáng kể (ví dụ: từ 3/10 lên 6/10).
+* **Tâm lý phí phạt:** Phí phạt (fee) được sử dụng để khuyến khích sự tuân thủ (adherence) và giúp khách hàng đi đúng hướng, chứ không phải để kiếm tiền.
+
+## 💡 Counter-intuitive Views
+* **Phí phạt thúc đẩy hành động:** Phí phạt khiến khách hàng *buộc phải* tham gia đào tạo và sử dụng sản phẩm phức tạp, từ đó tăng khả năng họ thành công và ở lại lâu dài.
+* **Giải thích phí phạt sau khi lấy thẻ:** Giải thích về phí phạt *sau khi* lấy thẻ tín dụng sẽ gặp ít kháng cự hơn.
+* **Thua cuộc là Upsell:** Khi khách hàng ghét sản phẩm (họ nói "no"), đừng đổ lỗi cho họ. Hãy tỏ ra giận dữ vì thiếu sót của mình, sau đó *Upsell* cho họ một giải pháp cao cấp hơn, phù hợp hơn.
+* **Khác biệt so với Win Your Money Back:** WMYB là "trả tiền để có cơ hội nhận lại tiền", còn Trial With Penalty là "dùng thử miễn phí, nhưng trả tiền nếu không tuân thủ".
+
+## 🎣 Hooks & Angles
+* **Hook Cốt lõi:** "Nếu bạn làm X, Y, Z, tôi sẽ để bạn bắt đầu miễn phí" (If you do X, Y, Z, I’ll let you start for free).
+* **Câu hỏi cam kết:** "Nếu chương trình này mang lại kết quả, bạn có ở lại lâu dài không?".
+* **Ngôn ngữ giải cứu:** "Tuyệt vời. Làm thế nào để chúng ta có thể giúp bạn bắt đầu miễn phí?".
+* **Ngôn ngữ lấy thẻ:** "Đây là cách chúng tôi luôn làm." (That’s just how we’ve always done it).
+
+## 🛠️ Frameworks & Strategies
+* **Tiêu chí Tác động kép:** Tiêu chí phạt nên tập trung vào các hành động kích hoạt và giữ chân khách hàng (ví dụ: tham dự cuộc gọi, nộp bài tập, viết đánh giá, tham gia các buổi tư vấn).
+* **Phân bổ phí phạt:** Nên chia phí phạt thành nhiều khoản nhỏ ($50 cho mỗi lần không tuân thủ) thay vì một khoản phí lớn ($500 cho lần đầu tiên).
+* **Chiến lược lấy thẻ cứng:** Luôn lấy thông tin thẻ tín dụng ngay cả khi cung cấp miễn phí (chỉ cần lấy thẻ tín dụng, không phải tính phí).
+* **Bắt buộc Sales Meetings:** Biến các cuộc họp "check-in" 1-1 thành *điều kiện bắt buộc* của bản dùng thử. Điều này tạo ra cơ hội Upsell (ví dụ: tư vấn dinh dưỡng, nâng cấp thành viên).
+* **Xử lý Khách hàng Churn/Phàn nàn (The Save):** Nếu khách hàng không sử dụng, đề nghị miễn phí phí phạt nếu họ đồng ý tham gia một cuộc họp để cứu vãn tình hình.
+* **Mô hình áp dụng:** Mô hình này hoạt động tốt nhất cho **sản phẩm/dịch vụ có doanh thu định kỳ** (recurring products/services) và nơi khách hàng phải *thực hiện công việc* để có kết quả.
+
+## 💬 Golden Quotes
+* > "Về cơ bản. Nó buộc tôi phải học, và giờ tôi không muốn học bất kỳ phần mềm phức tạp nào khác... nên chúng tôi sẽ gắn bó với họ!"
+* > "Tôi không muốn bạn dùng thử. Tôi muốn bạn có kết quả."
+* > "Chúng tôi tính phí để giữ bạn đi đúng hướng."
+* > "Bạn kiếm tiền bằng cách mang lại kết quả cho mọi người và biến họ thành khách hàng, chứ không phải bằng cách thu tiền phí lẻ tẻ."
