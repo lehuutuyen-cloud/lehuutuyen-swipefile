@@ -1,0 +1,43 @@
+TITLE: $100M Money Models - Chương 4.3 - Feature Downsells
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Downsell Offers, feature downsells, value subtraction
+---
+
+## 🧠 Core Mindsets
+* **Bản chất của Downsell Tính năng:** Giảm giá bằng cách **thay đổi những gì khách hàng nhận được** (tức là loại bỏ hoặc thay đổi tính năng), chứ không phải giảm giá cho cùng một sản phẩm.
+* **Trao đổi giá trị:** Khách hàng cân nhắc giữa **số tiền họ tiết kiệm được** và **giá trị họ bị mất** khi tính năng bị loại bỏ.
+* **Không thỏa hiệp về giá:** Tuyệt đối **không bao giờ thương lượng về giá** cho cùng một sản phẩm/dịch vụ. Những người đòi trả ít hơn cho cùng một thứ là "những kẻ khủng bố kinh doanh" (business terrorists).
+* **Vị trí Hướng dẫn viên:** Duy trì vị trí là một "hướng dẫn viên hữu ích" (Helpful Guide) để giữ cho cuộc trò chuyện mang tính hợp tác thay vì đối đầu.
+
+## 💡 Counter-intuitive Views
+* **Giá trị của Sự đảm bảo (Guarantee):** Việc loại bỏ "đảm bảo hoàn tiền" (money-back guarantee) có thể khiến khách hàng **tự Upsell** bản thân họ lên lại gói đắt tiền hơn vì họ nhận ra giá trị của sự đảm bảo đó.
+* **Downsell tăng Upsell:** Việc có sẵn các tùy chọn Downsell tính năng đã giúp tăng số lượng người mua gói chính (full-price buyers) và tổng tỷ lệ chốt sale.
+* **Tác động tâm lý:**
+    * Nếu loại bỏ thứ họ **GHÉT** và giảm giá nhiều: Nhiều người sẽ chọn Downsell.
+    * Nếu loại bỏ thứ họ **YÊU** và giảm giá ít: Nhiều người sẽ chọn *gói ban đầu* (tự Upsell).
+* **Downsell cho Khách hàng hiện tại (Churn Prevention):** Đề nghị giảm giá cho khách hàng hiện tại bằng cách loại bỏ các tính năng họ không sử dụng, giúp ngăn chặn việc họ hủy hợp đồng.
+
+## 🎣 Hooks & Angles
+* **Hook Cốt lõi:** "Tại sao chúng ta không thử cái này?" (Why don’t we try this instead?)
+* **Câu hỏi Thẩm định:** "Nếu bạn đồng ý không có sự đảm bảo, tôi có thể giảm \$400. Bạn thích giữ sự đảm bảo hay trả ít tiền hơn?".
+* **Mô hình Hàng không:** Đặt tên các gói theo trạng thái (The Whale Package, High Roller) hoặc theo mô hình hàng không (First Class → Business Class → Economy).
+
+## 🛠️ Frameworks & Strategies
+* **Công thức Downsell Tính năng:** Lấy đi một thứ gì đó → Giảm giá → Hỏi "Thế này thì sao?" ("How about now?").
+* **Các Hình thức Downsell Tính năng:**
+    * **Quantity (Số lượng):** Ít buổi học hơn, thời gian ngắn hơn.
+    * **Quality (Chất lượng):** Phiên bản cũ hơn, vật liệu kém bền hơn (vinyl thay vì da), thời gian phản hồi chậm hơn (phản hồi sau đêm thay vì 5 phút).
+    * **Remove Feature (Loại bỏ toàn bộ):** Cắt bỏ tính năng hoàn toàn (ví dụ: bỏ gọi điện thoại hỗ trợ).
+    * **DFY sang DIY (Done For You sang Do It Yourself):** Chuyển từ dịch vụ trọn gói sang sản phẩm tự làm (ví dụ: bán dụng cụ massage tại nhà thay vì vật lý trị liệu).
+* **Tiêu chuẩn hóa quy trình:** Bắt đầu bằng cách cắt bỏ thứ có giá trị nhưng giảm giá ít (để Upsell ngược lại). Sau đó, tiếp tục loại bỏ tính năng và giảm giá cho đến khi họ mua.
+* **Đổi lấy Quảng cáo (Barter):** Nếu khách hàng phản đối giá, đề nghị chiết khấu (ví dụ: \$100) để đổi lấy 4 hình thức quảng cáo (đánh giá, video testimonial, bài đăng xã hội, giới thiệu bạn bè).
+
+## 💬 Golden Quotes
+* > "Họ sẽ thấy giá trị của thứ bạn đã loại bỏ sau khi họ thấy sự khác biệt về giá."
+* > "Bạn không thương lượng với những kẻ khủng bố."
+* > "Nếu họ muốn trả ít hơn bây giờ—hãy chào hàng một kế hoạch thanh toán. Nếu họ muốn trả ít hơn tổng thể—hãy chào hàng một Downsell tính năng."
+* > "Khách hàng mà chúng tôi Downsell vào một gói thấp hơn, tùy chỉnh riêng cho họ, có giá trị cao thứ hai trong số tất cả khách hàng của tôi."
