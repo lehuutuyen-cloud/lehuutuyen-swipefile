@@ -1,0 +1,41 @@
+TITLE: $100M Money Models - Chương 4 - Downsell Offers (Giới thiệu)
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Downsell Offers, offer strategy
+---
+
+## 🧠 Core Mindsets
+* **Mục tiêu của Downsell:** Tinh chỉnh lời chào hàng ban đầu để tìm ra giải pháp có giá trị cao nhất phù hợp với **ngân sách** của khách hàng.
+* **Định nghĩa Downsell:** Bất kỳ lời chào hàng nào bạn đưa ra sau khi khách hàng nói "Không" đều là Downsell.
+* **Lỗi tư duy:** Nhiều người thất bại vì cho rằng "giá quá cao" có nghĩa là phải **giảm giá** (discounting). Trên thực tế, nó thường có nghĩa là "chi phí trả trước quá cao".
+* **Cơ hội lợi nhuận:** Downsell giúp bạn kiếm thêm tiền mặt từ cùng một lượng khách hàng tiềm năng, từ đó tăng lợi nhuận 30 ngày lên đáng kể.
+
+## 💡 Counter-intuitive Views
+* **Không được giảm giá cho cùng một sản phẩm:** Việc liên tục giảm giá cho cùng một sản phẩm/dịch vụ sẽ phá hủy niềm tin của khách hàng và khiến họ nghi ngờ mọi mức giá bạn đưa ra.
+* **Downsell không phải là Giảm giá:** Downsell là việc **thay đổi nội dung (What) hoặc cách thức thanh toán (How)**, chứ không phải chỉ là giảm giá (discounting) cho cùng một thứ.
+* **"Không" chỉ áp dụng cho một lời chào hàng:** Khi khách hàng từ chối, đó là cơ hội để tìm hiểu xem họ thực sự muốn gì và kiếm lợi nhuận từ đó.
+
+## 🎣 Hooks & Angles
+* "Nên chào hàng gì khi họ nói không." (What to offer when they say no).
+* "Thay vì trốn tránh, hãy đứng vững và đưa ra một lời chào hàng khác.".
+* "Bạn đánh đổi lòng tin để lấy một đồng bạc. Điều đó không đáng.".
+
+## 🛠️ Frameworks & Strategies
+* **2 Cách Downsell Cốt lõi:**
+    1. **Thay đổi cách họ trả tiền (How they pay):** Cân bằng giữa số tiền trả trước và số tiền trả theo thời gian.
+    2. **Thay đổi những gì họ nhận được (What they get):** Thay đổi số lượng, chất lượng hoặc cung cấp một sản phẩm khác.
+* **Quy tắc Downsell là Trao đổi (Downsells Are Trades):** Khi Downsell, bạn làm việc với khách hàng để tìm sự kết hợp giữa "cho" và "nhận" cho đến khi đạt được sự phù hợp. Nếu bạn cho đi một cái gì đó, bạn phải nhận lại một cái gì đó.
+* **Tránh phá giá:** Đừng giảm giá chỉ vì bạn sợ mất doanh số. Nếu khách hàng muốn sản phẩm giống nhau nhưng giá rẻ hơn, hãy kiên quyết.
+* **3 Chiến lược Downsell Hiệu quả:**
+    1. **Payment Plan Downsells** (Thay đổi cách thanh toán).
+    2. **Trial With Penalty** (Thay đổi cách thanh toán).
+    3. **Feature Downsells** (Thay đổi những gì họ nhận được).
+
+## 💬 Golden Quotes
+* > "Upsell đã giúp chúng tôi kiếm được nhiều tiền hơn. Tuyệt vời... nhưng nếu họ nói không thì sao? → Chúng ta downsell họ."
+* > "Việc Downsell tinh chỉnh lời chào hàng ban đầu để tìm ra giải pháp có giá trị cao nhất cho ngân sách của khách hàng."
+* > "Đó là cơ hội để tìm ra thứ họ thực sự muốn, và kiếm lời từ nó."
+* > "Downsell là về việc có một trăm cách khác nhau để chào hàng những thứ bạn đã có."
