@@ -1,0 +1,41 @@
+TITLE: $100M Money Models - Chương 2.5 - Pay Less Now or Pay More Later
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, booknote, $100M Money Models, attraction offers, pay less now or pay more later
+---
+
+## 🧠 Core Mindsets
+* **Tư duy cốt lõi:** Bạn cho khách hàng lựa chọn trả đủ tiền sau *hoặc* trả một mức giá chiết khấu kèm bonus nếu trả ngay bây giờ.
+* **Loại bỏ rủi ro:** Mô hình này loại bỏ mọi rủi ro khỏi khách hàng, kết hợp lợi ích của việc thanh toán trả chậm và bảo đảm sự hài lòng có điều kiện.
+* **Lợi ích kép:** Nó thu hút nhiều lead nhờ quảng cáo "miễn phí" và giúp bạn có được thẻ tín dụng của họ ngay từ đầu.
+* **Win-Win:** Nếu họ hài lòng, bạn có khách hàng và lợi nhuận; nếu họ không hài lòng, bạn vẫn có cơ hội Upsell khác.
+
+## 💡 Counter-intuitive Views
+* **"Pay Later" thu hút bằng "Free":** Tùy chọn "trả tiền sau" cho phép bạn quảng cáo chương trình là "miễn phí" vì họ có thể hủy trước khi bị tính phí.
+* **Quy tắc 10%:** Nếu có hơn 10% người chọn "trả tiền sau" hủy thanh toán, điều đó cho thấy: bạn đã hứa quá nhiều, điều kiện bảo đảm quá dễ, hoặc giá quá cao.
+* **Duy trì điều kiện (Conditional Guarantee):** Khách hàng chỉ có thể hủy thanh toán nếu họ *đủ điều kiện* (ví dụ: tham dự đủ các buổi đào tạo, nộp dữ liệu). Điều này đảm bảo họ phải hành động để nhận giá trị.
+
+## 🎣 Hooks & Angles
+* "Tăng gấp đôi tốc độ đọc của bạn trong 3 giờ, hoặc nó miễn phí.".
+* "Trả tiền ít hơn Ngay bây giờ, hoặc Trả tiền nhiều hơn Sau này."
+* "Bạn có thể chỉ trả \$97 ngay bây giờ, và nhận các bản ghi âm miễn phí.".
+* "Bạn ở đây để nhận đồ miễn phí hay kết quả lâu dài?"
+
+## 🛠️ Frameworks & Strategies
+* **Cấu trúc Chào hàng (Pay Less Now or Pay More Later):**
+    * **Lựa chọn A (Pay Later):** Giá \$0 (yêu cầu thẻ tín dụng) và sẽ bị tính phí đầy đủ (\$297) vào ngày mai, trừ khi họ hủy/đủ điều kiện theo cam kết.
+    * **Lựa chọn B (Pay Now):** Trả mức giá chiết khấu (\$97) ngay lập tức và nhận thêm các bonus có giá trị (ghi âm, tư vấn 1-1, tài liệu).
+* **Mục tiêu Cam kết (Promise Goal):** Lời hứa phải là kết quả "có/không" rõ ràng, đơn giản, dễ đo lường và bạn có khả năng thực hiện. Ví dụ: Mức độ đau vai giảm từ 1-10.
+* **Tối ưu hóa Tỷ lệ chọn Gói (A/B Optimization):**
+    * Nếu quá nhiều người chọn "trả sau" (Pay Later): Tăng chiết khấu hoặc thêm bonus tốt hơn cho tùy chọn "trả ngay" (Pay Now).
+    * Nếu quá nhiều người chọn "trả ngay" (Pay Now): Giảm chiết khấu hoặc giảm bonus.
+* **Gợi ý Upsell sớm:** Nếu bạn tổ chức sự kiện/workshop, hãy khéo léo gợi ý về lời chào hàng tiếp theo ngay từ đầu để tăng tỷ lệ chuyển đổi cuối sự kiện.
+
+## 💬 Golden Quotes
+* "Đây không phải là một chiến thuật để kiếm thêm tiền, mà là một chiến thuật để có thêm khách hàng."
+* "Việc hứa hẹn một kết quả rõ ràng 'có/không' và yêu cầu một cam kết có điều kiện sẽ loại bỏ mọi rủi ro khỏi khách hàng."
+* "Tùy chọn 'trả tiền sau' cho phép bạn quảng cáo chương trình là 'miễn phí'."
+* "Tôi đã học được một kỹ năng mà tôi vẫn sử dụng cho đến ngày nay. Nhưng, giá trị thực sự đến từ việc học được một Chào hàng Thu hút hoàn toàn mới."
