@@ -1,0 +1,41 @@
+TITLE: $100M Money Models - Chương 3.4 - Rollover Upsell
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Upsell Offers, rollover upsell, recurring revenue
+---
+
+## 🧠 Core Mindsets
+* **Bản chất của Rollover Upsell:** Ghi có (credit) một phần hoặc toàn bộ khoản mua hàng trước đó của khách hàng vào lời chào hàng tiếp theo của bạn.
+* **Mục tiêu:** Chuyển chi phí của những gì họ vừa mua sang thứ tiếp theo, đắt tiền hơn.
+* **Thành công nằm ở tính liên tục:** Đừng để khách hàng có thời gian *không trả tiền*. Nếu khách hàng thắng một khoản tín dụng (credit), hãy trải đều nó ra để họ bắt đầu trả tiền ngay lập tức.
+* **Tư duy Cứu cánh:** Rollover Upsell là cách tốt nhất để cứu vớt khách hàng đang giận dữ, thay vì hoàn tiền.
+
+## 💡 Counter-intuitive Views
+* **Khách hàng Trả tiền Ngay lập tức:** Bằng cách trải đều khoản tín dụng (ví dụ: $600) thành giảm giá hàng tháng ($50/tháng) trong 12 tháng, khách hàng bắt đầu trả tiền ngay lập tức, mặc dù họ đã "thắng" tiền.
+* **"Đánh cắp" Khách hàng Giận dữ (Nasty Strategy):** Sử dụng Rollover Upsell như một Chào hàng Thu hút bằng cách tìm kiếm khách hàng giận dữ của đối thủ cạnh tranh và chào hàng ghi có số tiền họ bị mất vào hợp đồng mới của bạn.
+* **Bán hàng cho Khách hàng Cũ (Winback):** Khách hàng cũ (6+ tháng không mua) là một nguồn lợi nhuận lớn, có thể kích hoạt bằng cách đề nghị ghi có các khoản thanh toán trước đó vào một gói mới đắt tiền hơn.
+* **Thử nghiệm Tín dụng:** Bạn không cần ghi có toàn bộ số tiền mua hàng đầu tiên; chỉ cần ghi có một lượng đủ để khuyến khích họ mua hàng tiếp theo.
+
+## 🎣 Hooks & Angles
+* **Hook Cốt lõi:** "Bạn có muốn chuyển tiếp nó không?" (Wanna just roll it forward?).
+* **Ngôn ngữ Ghi có:** "Chúng ta hãy ghi có khoản mua hàng cuối cùng của bạn vào khoản này." (Let's credit your last purchase to this one).
+* **Thêm Khẩn cấp (Urgency):** Biến Rollover Upsell thành một lời chào hàng **"Chỉ một lần trong đời khách hàng"** (One-Time Only) ngay tại thời điểm trình bày.
+* **Chiến thuật Thẻ quà tặng (Gift Card Play):** Quảng cáo Thẻ quà tặng giảm giá 90%+ (ví dụ: Thẻ $200 chỉ còn $20) và yêu cầu người mua tặng cho người khác. Khách hàng trả tiền để giới thiệu bạn bè của họ.
+
+## 🛠️ Frameworks & Strategies
+* **3 Yếu tố Rollover Upsell:**
+    1. **Who (Ai):** Khách hàng cũ, khách hàng giận dữ của bạn/đối thủ, khách hàng hiện tại.
+    2. **What (Cái gì):** Sản phẩm Upsell phải là thứ đắt tiền hơn.
+    3. **How (Cách thức):** Áp dụng tín dụng trả trước (Up Front) hoặc trải đều (Spread Out).
+* **Quy tắc Định giá (Pricing Rule):** Giá của lời chào hàng tiếp theo nên cao hơn khoản tín dụng Rollover ít nhất **4 lần**.
+* **Chiến lược Trải đều Tín dụng (Spreading Credit):** Trải đều khoản tín dụng (ví dụ: $600) thành giảm giá hàng tháng ($50/tháng) trong một hợp đồng dài hạn (ví dụ: 12 tháng) để duy trì dòng tiền định kỳ.
+* **Rollover trước Hoàn tiền:** Nếu khách hàng yêu cầu hoàn tiền, hãy đề nghị Rollover khoản tiền đã trả vào một dịch vụ khác hoặc gói cao cấp hơn như một "cơ hội làm lại" (do over).
+
+## 💬 Golden Quotes
+* > "Họ vẫn nhận lại tiền... chỉ mất một năm."
+* > "Đây chính là mắt xích còn thiếu trong Money Model của tôi."
+* > "Rollover Upsell thay đổi mọi thứ. Bây giờ, thay vì hy vọng khách hàng chi tiền lần nữa, tôi chuyển chi phí của những gì họ vừa mua sang thứ tiếp theo."
+* > "Mô hình này có tính cấp bách (urgency) tinh tế và thiện chí được tích hợp sẵn."
