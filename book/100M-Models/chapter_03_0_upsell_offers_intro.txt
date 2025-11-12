@@ -1,0 +1,40 @@
+TITLE: $100M Money Models - Chương 3 - Upsell Offers (Giới thiệu)
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Upsell Offers, business psychology, loss aversion, offer strategy
+---
+
+## 🧠 Core Mindsets
+* **Mục tiêu của Upsell:** Tối đa hóa lợi nhuận trong 30 ngày đầu tiên sau khi có khách hàng.
+* **Bản chất của Upsell:** Upsell chỉ đơn giản là bất cứ thứ gì bạn chào hàng tiếp theo.
+* **Quy luật Độc đắc:** Lời chào hàng đầu tiên của bạn không nhất thiết phải tạo ra lợi nhuận; Upsell thường tạo ra phần lớn lợi nhuận.
+* **Cơ hội liên tục:** Khi một lời chào hàng giải quyết một vấn đề, một vấn đề khác sẽ xuất hiện. Upsell chính là giải pháp cho vấn đề mới được bộc lộ đó.
+* **Tư duy McDonald's:** Nếu McDonald's không bán thêm khoai tây chiên và soda, họ đã không thể tồn tại.
+
+## 💡 Counter-intuitive Views
+* **Tăng lợi nhuận 11.6 lần:** Việc bán thêm (Upsell) có thể tăng lợi nhuận gộp trên mỗi lần bán hàng lên gấp 8 lần (thêm khoai tây chiên và nước ngọt cỡ vừa) và thậm chí 11.6 lần (thêm nước ngọt cỡ lớn) so với việc chỉ bán burger đơn thuần.
+* **Lỗi Upsell:** Upsell thất bại khi bạn chào hàng sai thời điểm (trước khi khách hàng nhận ra vấn đề), sai thứ (quá khác biệt hoặc không giải quyết vấn đề), hoặc sai cách (họ không tin bạn).
+* **Bán vấn đề của người giàu:** "Giải quyết các vấn đề của người giàu, họ trả tiền tốt hơn".
+
+## 🎣 Hooks & Angles
+* "Bạn có muốn thêm khoai tây chiên không?" (Do you want fries with that?).
+* "Nếu bạn không làm Upsell, người khác sẽ làm".
+
+## 🛠️ Frameworks & Strategies
+* **3 Loại Upsell Cơ bản (Tăng Giá trị):**
+    * **More (Số lượng):** Nhiều hơn những gì họ vừa mua (Mua 1 burger, thêm 1 burger nữa).
+    * **Better (Chất lượng):** Phiên bản tốt hơn (thịt bí ẩn vs. thịt thăn bò).
+    * **Different (Bổ sung):** Sản phẩm mới hoặc bổ sung (thêm khoai tây chiên và nước ngọt).
+* **4 Chiến lược Upsell Hiệu quả Nhất:**
+    * The Classic Upsell (Upsell Cổ điển).
+    * Menu Upsells (Upsell theo Menu).
+    * Anchor Upsells (Upsell Mỏ neo).
+    * Rollover Upsells (Upsell Chuyển tiếp).
+
+## 💬 Golden Quotes
+* "Upsell giải quyết vấn đề mà lời chào hàng của bạn bộc lộ."
+* "Lời chào hàng đầu tiên của bạn không phải lúc nào cũng tạo ra lợi nhuận."
+* "Nếu McDonald's không bán thêm khoai tây chiên và soda, họ đã không thể tồn tại."
