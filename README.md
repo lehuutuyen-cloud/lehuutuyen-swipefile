@@ -1,5 +1,6 @@
 # lehuutuyen-swipefile
 Kho tri thức có cấu trúc do Lê Hữu Tuyến xây dựng, nhằm lưu trữ và hệ thống hóa những tinh hoa rút ra từ sách thông qua mô hình 5 lớp chiết xuất — giúp hỗ trợ tư duy, học tập và ứng dụng cùng AI trong marketing và chiến lược kinh doanh.
+
 # 🧠 Mental Swipefile
 
 Lưu trữ tri thức đọc được, theo 5 bộ lọc cố định trong từng chương:
@@ -30,6 +31,7 @@ Lưu trữ tri thức đọc được, theo 5 bộ lọc cố định trong từ
 - Khi cần trích dẫn, bảo AI truy vấn:  
   > “Tìm trong `core-mindsets` những bài học liên quan đến tư duy hệ thống.”  
 - Có thể thêm metadata trong `index.json` để AI tra cứu nhanh hơn.
+- [Gemini thực hiện](https://gemini.google.com/gem/1UD5XnH4tLSvwcQ79PkFBk6mwo_2fLj_Y?usp=sharing)
 
 ---
 
