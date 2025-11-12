@@ -1,0 +1,40 @@
+TITLE: $100M Money Models - Chương 3.3 - Anchor Upsell
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Upsell Offers, anchor upsell, price anchoring
+---
+
+## 🧠 Core Mindsets
+* **Tư duy cốt lõi:** Neo giá ảnh hưởng đến nhận thức. Bằng cách trình bày mức giá cực cao trước, bạn khiến mức giá hợp lý (mục tiêu) trông giống như một món hời lớn.
+* **Mất tiền vì bán rẻ:** "Điều tồi tệ duy nhất hơn là đưa ra lời chào hàng $1,000 cho người có ngân sách $100... là đưa ra lời chào hàng $100 cho người có ngân sách $1,000."
+* **Tầm quan trọng của Premium:** Luôn phải có các gói cao cấp (premium offers) sẵn sàng, ngay cả khi chỉ một số ít mua chúng. Các gói này tạo ra lợi nhuận khổng lồ và ngăn bạn mất khách hàng có ngân sách lớn.
+* **Chi tiêu ngoài ngân sách:** Khách hàng bị neo giá sẽ chi tiêu nhiều hơn mức họ đã dự tính ban đầu.
+
+## 💡 Counter-intuitive Views
+* **"The Gasp" (Sự hụt hơi):** Một Anchor Upsell hiệu quả sẽ khiến khách hàng có một phản ứng kinh ngạc về chi phí ("The Gasp"). Phản ứng càng mạnh, họ càng có khả năng mua gói thấp hơn.
+* **Anchor phải là thật:** Bạn phải chào hàng gói Anchor *như thể bạn thực sự muốn bán nó*. Nếu bạn coi Anchor là giả, khách hàng cũng sẽ cảm nhận được và chiến thuật sẽ thất bại.
+* **Giữ Tính năng chính:** Để gói chính trở thành "món hời", bạn phải giữ lại các tính năng *chính* (primary features) giống như gói Anchor, nhưng loại bỏ các tính năng *phụ* đắt tiền (secondary features) (ví dụ: giữ lại bộ vest, loại bỏ nhãn hiệu thiết kế).
+
+## 🎣 Hooks & Angles
+* **Hook Cốt lõi:** "Điều tồi tệ duy nhất hơn là đưa ra lời chào hàng $1,000 cho người có ngân sách $100... là đưa ra lời chào hàng $100 cho người có ngân sách $1,000."
+* **Hành động Ngay lập tức:** "The Gasp" là tín hiệu để người bán hàng "Come to the Rescue" (Giải cứu).
+* **Câu hỏi Giải cứu:** "Bạn không quan tâm đến [Tính năng phụ đắt tiền] nhiều phải không? Vậy còn cái này thì sao?".
+
+## 🛠️ Frameworks & Strategies
+* **Anchor Upsell Process (5 Bước):**
+    1. **Present the Anchor:** Chào hàng sản phẩm *cực kỳ* đắt tiền (Anchor) (lớn hơn 5-10 lần giá mục tiêu).
+    2. **Get "The Gasp":** Chờ đợi phản ứng sốc của khách hàng.
+    3. **Come to the Rescue:** Hỏi nếu họ quan tâm đến thứ làm gói đó cao cấp (ví dụ: nhãn hiệu, bảo hiểm 20 năm).
+    4. **Present Main Offer:** Đưa ra gói chính (rẻ hơn nhiều) ngay lập tức. Khách hàng cảm thấy nhẹ nhõm và thấy đây là một món hời.
+    5. **Ask for Payment:** Hỏi cách thanh toán ("Bạn thích dùng thẻ nào?").
+* **Tỷ lệ Neo giá (Anchoring Ratio):** Gói Anchor nên có giá **5-10 lần** so với gói chào hàng chính để tạo ra sự tương phản mạnh mẽ nhất.
+* **Cấu trúc Gói Lợi nhuận:** Gói Anchor và Gói Chính nên có cùng các tính năng *chính* (Primary features) nhưng khác nhau ở các tính năng *phụ* đắt tiền (Secondary/Premium features).
+
+## 💬 Golden Quotes
+* > "Điều tồi tệ duy nhất hơn là đưa ra lời chào hàng $1,000 cho người có ngân sách $100... là đưa ra lời chào hàng $100 cho người có ngân sách $1,000."
+* > "The bigger the gasp, the more they bought."
+* > "Bạn sẽ không mất khách hàng vì chào hàng đồ cao cấp trước, nhưng bạn SẼ mất tiền nếu bạn không chào hàng nó."
+* > "Sau khi neo giá, việc chào hàng các tính năng chính với giá bằng 1/5 khiến gói chính trở thành một món hời lớn. Nó mang lại cho họ 'về cơ bản là cùng một thứ nhưng rẻ hơn nhiều'."
