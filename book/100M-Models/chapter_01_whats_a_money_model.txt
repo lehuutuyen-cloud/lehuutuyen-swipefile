@@ -1,0 +1,42 @@
+TITLE: $100M Money Models - Chương 1 - What's A Money Model?
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: 
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-12
+TAGS: Alex Hormozi, Money Models, Marketing, Offers, booknote, $100M Money Models
+---
+
+## 🧠 Core Mindsets
+* **Tư duy "Chuỗi giải pháp":** Một Money Model (Mô hình Tiền tệ) không phải là một sản phẩm đơn lẻ, mà là một *chuỗi các lời chào hàng* (sequence of offers).
+* **Biết vấn đề của khách hàng trước cả họ:** Sức mạnh của một Money Model nằm ở chỗ bạn dự đoán được mọi vấn đề tiếp theo của khách hàng (và những vấn đề họ thậm chí còn không biết là mình sẽ có) và chuẩn bị sẵn một lời chào hàng để giải quyết nó ngay lập tức.
+* **Tư duy "Máy nhân tốc độ":** Tăng trưởng kinh doanh không phải là 1+1=2. Nếu bạn có thể làm cho khách hàng giá trị gấp 2 lần, có được gấp 2 lần số lượng khách hàng, VÀ được thanh toán nhanh gấp 2 lần... doanh nghiệp của bạn sẽ tăng trưởng gấp 8 LẦN (2x2x2).
+
+## 💡 Counter-intuitive Views
+* **Vấn đề của doanh nghiệp = Tốc độ hoàn vốn:** Hầu hết các doanh nghiệp thất bại không phải vì họ không có lãi, mà vì họ bị "chết đói" tiền mặt. Họ chi \$100 để có 1 khách hàng, nhưng phải mất 2 năm mới kiếm lại được \$100 đó.
+* **Định nghĩa "Doanh nghiệp tốt" = Hoàn vốn trong 30 ngày:** Một Money Model "tốt" là mô hình giúp bạn thu hồi toàn bộ chi phí có được khách hàng (CAC) trong vòng 30 ngày hoặc ít hơn.
+* **30 ngày là "Phép thuật":** Tại sao 30 ngày? Vì bất kỳ ai cũng có thể có được "tiền miễn phí" trong 30 ngày thông qua thẻ tín dụng. Bạn có thể dùng thẻ tín dụng để "mua" khách hàng, dùng tiền của khách hàng đó trả nợ thẻ, và lặp lại vô hạn. Đây là cỗ máy tăng trưởng không cần vốn.
+
+## 🎣 Hooks & Angles
+* **Cái mồi "Tăng 5X trong 5 phút":** Mở đầu bằng một câu chuyện gây sốc. "Tôi đến để thuê một chiếc xe \$19/ngày và rời đi với việc trả \$100/ngày. Chênh lệch 5 lần!". Điều này tạo ra câu hỏi "Làm thế nào??".
+* **Quote gây sốc:** "Stop being poor." - Paris Hilton. (Một cách tuyệt vời để thu hút sự chú ý và thiết lập chủ đề về tiền bạc).
+
+## 🛠️ Frameworks & Strategies
+* **Mô hình "Thuê xe" (The Rental Car Model):**
+    1.  **Mồi câu ban đầu (Attraction):** Một lời chào hàng giá rẻ (xe \$19/ngày).
+    2.  **Upsell #1 (Nâng cấp):** Giải quyết vấn đề ngay lập tức ("anh to con mà xe này nhỏ") -> Bán xe bán tải rộng rãi hơn.
+    3.  **Upsell #2 (Tiện lợi):** Giải quyết vấn đề tương lai ("chuyến bay buổi tối") -> Bán gói "trả xe trễ".
+    4.  **Upsell #3 (Bảo hiểm):** Giải quyết nỗi sợ hãi ("lỡ làm trầy xe") -> Bán gói bảo hiểm cao cấp.
+    5.  **Downsell (Khi Upsell #3 thất bại):** "Vậy chỉ cần bảo hiểm tối thiểu thôi nhé?" (Vẫn bán được hàng thay vì mất trắng).
+    6.  **Upsell #4 (Tiết kiệm thời gian):** Giải quyết sự lười biếng/vội vã ("ghét đổ xăng lúc vội ra sân bay") -> Bán gói "xăng trả trước".
+* **Quy tắc Vàng 30 Ngày (The 30-Day Rule):**
+    1.  Sử dụng thẻ tín dụng (hoặc tiền vay 0% lãi suất) để chi trả chi phí quảng cáo (CAC).
+    2.  Money Model của bạn phải được thiết kế để hoàn lại toàn bộ chi phí này (và lý tưởng là có lãi) trong vòng 30 ngày.
+    3.  Thanh toán số dư thẻ tín dụng trước khi hết hạn.
+    4.  Lặp lại quá trình này để có được khách hàng tiếp theo.
+
+## 💬 Golden Quotes
+* > "Một Money Model là một chuỗi các lời chào hàng."
+* > "Những Money Model tồi tệ giết chết doanh nghiệp."
+* > "Hầu hết các doanh nghiệp chi nhiều tiền hơn để có được một người mua một thứ gì đó so với lợi nhuận họ kiếm được từ thứ đó."
+* > "Có rất nhiều tiền. Bạn chỉ cần đi lấy nó."
