@@ -1,0 +1,43 @@
+TITLE: $100M Money Models - Chương 5.1 - Continuity Bonus Offers
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Continuity Offers, recurring revenue, lifetime value
+---
+
+## 🧠 Core Mindsets
+* **Mục tiêu:** Sử dụng các phần thưởng (Bonuses) để khiến khách hàng tham gia chương trình liên tục (Continuity Program) ngay từ đầu.
+* **Tư duy Marketing:** "Tham gia chương trình thành viên của tôi" không hấp dẫn bằng "nhận ngay thứ có giá trị này miễn phí". Hãy quảng cáo Bonus trước, sau đó mới giải thích về tư cách thành viên.
+* **Giá trị của Bonus:** Bonus thường có giá trị cao hơn khoản thanh toán liên tục đầu tiên.
+* **Kích hoạt Doanh thu Định kỳ (Recurring Revenue):** Mô hình này giúp chuyển đổi khách hàng từ các chương trình ngắn hạn sang chương trình thành viên dài hạn, nhân ba doanh số thành viên.
+
+## 💡 Counter-intuitive Views
+* **Bán hàng bằng cách Tặng:** Một chủ phòng tập đã tăng gấp ba doanh số thành viên bằng cách không bán *thử thách 6 tuần* nữa, mà bán *gói thành viên* và tặng thử thách 6 tuần **miễn phí** như một phần thưởng.
+* **Lợi nhuận đến từ Upfront Cash:** Khi sử dụng Continuity Bonus ở cuối phễu, bạn có thêm tiền mặt từ khoản thanh toán đầu tiên *và* từ việc bán thêm gói trả trước số lượng lớn (bulk prepaid discount).
+* **Tăng trưởng 50% lợi nhuận 30 ngày:** Chỉ cần 1/8 khách hàng chấp nhận Upsell trả trước số lượng lớn (ví dụ: mua 5 tháng tặng 1 tháng miễn phí), lợi nhuận 30 ngày của bạn sẽ tăng 50%.
+* **Định giá chống lại Continuity:** Khách hàng sẵn lòng trả thêm **33%** để *tránh* trả phí định kỳ (continuity) và mua gói một lần (standalone price).
+
+## 🎣 Hooks & Angles
+* **Hook Cốt lõi:** "Nếu bạn thích cái này, bạn sẽ yêu thích thứ tôi có tiếp theo..." (If you like this, you’re gonna love what I have next…).
+* **Tái cấu trúc Giá trị:** "Trở thành thành viên VIP ngay hôm nay và bạn sẽ nhận được [Bonus $1,000] như một món quà miễn phí để tham gia".
+
+## 🛠️ Frameworks & Strategies
+* **Cấu trúc Chào hàng Bonus:**
+    1. **Tặng một lần (One-Time Bonus):** Tặng một sản phẩm/dịch vụ có giá trị cao khi đăng ký thành viên.
+    2. **Tặng liên tục (Monthly Bonuses):** Các đặc quyền dành riêng cho thành viên (ví dụ: lớp học tốt hơn, sự kiện VIP).
+* **Tích hợp Bonus:**
+    * **Tạo Bonus từ những gì đã có:** Biến những thứ bạn đã có hoặc phải làm (ví dụ: các bản tin cũ, dịch vụ onboarding) thành Bonus có giá trị cao.
+    * **Bonus vật lý/kỹ thuật số chéo:** Tặng Bonus vật lý cho sản phẩm kỹ thuật số hoặc ngược lại.
+* **Chiến lược Neo Bonus (Anchoring the Bonus):**
+    1. Bán lợi ích của **Bonus** trước.
+    2. Sau đó hỏi: "Bạn có muốn biết làm thế nào để nhận cái này miễn phí không?".
+* **Chiến lược Bán gói Trả trước số lượng lớn (Bulk Prepaid Discount):** Upsell khách hàng ngay sau khi họ đồng ý gói Continuity bằng cách chào hàng giảm giá cho việc trả trước (ví dụ: "mua 5 tháng tặng 1 tháng miễn phí") để tăng lợi nhuận 30 ngày.
+* **Giá Gói Trả trước vs. Trả một lần:** Để có 50% khách hàng chọn trả một lần (Standalone), hãy định giá gói trả một lần **1.33 lần** giá gói định kỳ hàng tháng.
+
+## 💬 Golden Quotes
+* > "Tập trung vào Phần thưởng, không phải Tư cách thành viên. 'Tham gia chương trình thành viên của tôi' không hấp dẫn bằng 'nhận ngay thứ có giá trị này miễn phí'."
+* > "Họ trả thêm 33% để tránh sự liên tục. Nói cách khác, ngay cả khi bạn tính thêm 33% cho một lần mua, một nửa sẽ mua nó!"
+* > "Nếu bạn muốn cam kết, hãy chuẩn bị cho một sự đánh đổi."
+* > "Bonus phải liên quan đến lời chào hàng cốt lõi của bạn để bạn thu hút đúng khách hàng."
