@@ -1,0 +1,49 @@
+TITLE: $100M Money Models - Chương 2.3 - Decoy Offer
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, booknote, $100M Money Models, attraction offers, decoy offer
+---
+
+## 🧠 Core Mindsets
+* Tư duy cốt lõi: Bạn phải biết điều gì mang lại kết quả cho khách hàng *tốt hơn cả chính họ*. [cite_start]Điều này biến lời chào hàng cao cấp (premium) của bạn trở thành giải pháp rõ ràng duy nhất. [cite: 998]
+* [cite_start]Hãy cho khách hàng thứ họ *muốn* ngay bây giờ (mồi nhử giá rẻ), để bạn có thể bán cho họ thứ họ *cần* sau đó (gói premium đắt tiền). [cite: 997]
+* Nhiệm vụ duy nhất của Chào hàng Mồi nhử (Decoy Offer) là khiến khách hàng tiềm năng tương tác. [cite_start]Không hơn. [cite: 1038]
+* Hãy quảng cáo *lợi ích* (ví dụ: "Biến đổi trong 21 ngày"), KHÔNG phải *tính năng* (ví dụ: "kế hoạch bữa ăn"). [cite_start]Chi tiết sản phẩm là để trình bày trong lúc bán hàng, không phải trong quảng cáo. [cite: 1039, 1040, 1041]
+
+## 💡 Counter-intuitive Views
+* [cite_start]Quảng cáo "Miễn phí" hoặc "Giá rẻ" (ví dụ: \$5) là cách hiệu quả nhất để bán một gói dịch vụ giá cao (ví dụ: \$399). [cite: 988, 994]
+* [cite_start]Mọi người nghĩ rằng họ muốn lựa chọn rẻ nhất, nhưng khi được đặt cạnh một lựa chọn cao cấp có giá trị vượt trội rõ ràng, phần lớn (8/10 người) sẽ chọn trả tiền cho gói đắt tiền hơn. [cite: 994, 1003]
+* Ngay cả khi khách hàng chọn "Mồi nhử" (gói miễn phí/rẻ), bạn vẫn thắng. [cite_start]Bạn đã có được một khách hàng mà bạn có thể bán thêm (upsell) sau này, thay vì mất họ hoàn toàn. [cite: 1005, 1006]
+* Giá trị của gói cao cấp được tạo ra từ sự *tương phản* khổng lồ với gói mồi nhử. [cite_start]Hãy làm cho gói mồi nhử trở nên cơ bản nhất có thể. [cite: 1052, 1053]
+
+## 🎣 Hooks & Angles
+* **Câu hỏi "Bản lề" (Pivot Question):** "Bạn đến đây vì đồ miễn phí hay vì kết quả bền vững?". (Đây là câu hỏi then chốt để chuyển hướng cuộc hội thoại từ mồi nhử sang gói premium)[cite_start]. [cite: 1061]
+* **"Câu chuyện Gà Tây" (The Turkey Talk):** Bạn không thể nướng chín con gà tây trong một nửa thời gian bằng cách tăng gấp đôi nhiệt độ—bạn sẽ làm cháy nó. (Cách ẩn dụ để giải thích tại sao gói mồi nhử rẻ/nhanh sẽ không mang lại kết quả thực sự)[cite_start]. [cite: 970]
+* [cite_start]"Bạn nghĩ lựa chọn nào sẽ giúp bạn đạt mục tiêu nhanh hơn?". [cite: 1064]
+* [cite_start]"Phiên bản 'Tối thượng' (Ultimate' Version) giá \$399". [cite: 993]
+* [cite_start]"Máy bay riêng và thuyền chèo đều có thể đưa bạn đến một hòn đảo, nhưng lựa chọn premium chắc chắn thú vị hơn.". [cite: 1042]
+
+## 🛠️ Frameworks & Strategies
+* **Framework Chào hàng Mồi nhử (2 Bước):**
+    1.  [cite_start]Quảng cáo một phiên bản *ít hơn, nhỏ hơn, hoặc đơn giản hơn* (decoy) của sản phẩm premium để thu hút lead. [cite: 1001, 1009]
+    2.  Khi lead tương tác, trình bày *cả hai lựa chọn* (decoy vs. premium) song song. [cite_start]Nhấn mạnh giá trị vượt trội của gói premium (thêm tính năng, lợi ích, tiền thưởng, bảo hành) để biến nó thành lựa chọn hợp lý duy nhất. [cite: 1001, 1002, 1003]
+* [cite_start]**Cách tạo ra Mồi nhử (Decoy):** [cite: 1037]
+    * Cung cấp ít thành phần hơn.
+    * Dùng các phiên bản cũ hơn.
+    * Ít cá nhân hóa hơn.
+    * [cite_start]**Quan trọng nhất:** Loại bỏ tất cả các hình thức *bảo hành* (guarantees). [cite: 1038]
+* **Kịch bản Xử lý Bán hàng (The Pivot Script):**
+    1.  [cite_start]Khách hàng hỏi về gói mồi nhử (ví dụ: "Tôi muốn gói miễn phí"). [cite: 1061]
+    2.  [cite_start]Hỏi: "Bạn đến đây vì đồ miễn phí hay vì kết quả bền vững?". [cite: 1061]
+    3.  [cite_start]Nếu họ nói "Kết quả", hãy bỏ qua việc nói về mồi nhử và đi thẳng vào trình bày gói premium. [cite: 1062]
+    4.  [cite_start]Nếu họ nói "Đồ miễn phí", hãy trình bày gói mồi nhử... *ngay lập tức* so sánh nó với gói premium, rồi hỏi: "Bạn nghĩ lựa chọn nào sẽ giúp bạn đạt mục tiêu nhanh hơn?". [cite: 1063, 1064]
+* **Chiến thuật "Bất ngờ & Hài lòng" (Tùy chọn):** Nếu khách hàng vẫn chọn gói mồi nhử, hãy "bất ngờ" tặng thêm cho họ một vài tính năng nhỏ (chi phí thấp) từ gói premium. [cite_start]Điều này xây dựng thiện chí và tăng khả năng họ sẽ nâng cấp sau này. [cite: 1076, 1077, 1078]
+
+## 💬 Golden Quotes
+* [cite_start]"Bạn phải biết điều gì mang lại kết quả cho khách hàng tốt hơn cả họ. Điều này khiến ưu đãi premium của chúng ta trở thành giải pháp rõ ràng." [cite: 998]
+* [cite_start]"Bạn đến đây vì đồ miễn phí hay vì kết quả bền vững?" [cite: 1061]
+* [cite_start]"Quảng cáo lợi ích, không phải tính năng." [cite: 1039]
+* [cite_start]"Khi làm cho ưu đãi premium của bạn trở nên vượt trội, hãy tỏ ra hào hứng về nó." [cite: 1068, 1070]
