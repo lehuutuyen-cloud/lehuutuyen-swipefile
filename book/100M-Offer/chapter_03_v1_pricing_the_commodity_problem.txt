@@ -1,0 +1,36 @@
+TITLE: $100M Offers - Chương 3 - Pricing: The Commodity Problem
+BOOK: $100M Offers
+AUTHOR: Alex Hormozi
+URL: 
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-13
+TAGS: Alex Hormozi, Offer, Pricing, Commodity, booknote, 100M Offers
+---
+
+## 🧠 Core Mindsets
+* Một "commodity" (hàng hóa) là một sản phẩm có sẵn từ nhiều nơi, và do đó, nó bị mua dựa trên "giá" thay vì "giá trị".
+* Khi bạn là một commodity, thị trường sẽ ép giá của bạn xuống mức thấp nhất, cho đến khi lợi nhuận chỉ vừa đủ để bạn tồn tại.
+* Lối thoát khỏi "vấn đề hàng hóa" là tạo ra một Lời chào hàng Vĩ đại (Grand Slam Offer).
+* Hầu hết các doanh nghiệp đang bán "nỗ lực" (chúng tôi sẽ làm X), thay vì bán "kết quả" (bạn sẽ nhận được Y). Họ bán "có thể" thay vì "chắc chắn".
+
+## 💡 Counter-intuitive Views
+* Nếu khách hàng đang so sánh bạn với đối thủ và chọn bên rẻ hơn, đó không phải lỗi của khách hàng. Đó là lỗi của bạn vì đã "hàng hóa hóa" chính mình.
+* Một Lời chào hàng Vĩ đại (GSO) sẽ đưa bạn vào một "danh mục của riêng một mình" (category of one).
+* Khi bạn có một GSO, quyết định mua hàng của khách hàng không còn là "giữa bạn và đối thủ", mà là "giữa bạn và không gì cả".
+* Doanh nghiệp thông thường *trả tiền* để có khách hàng mới. Doanh nghiệp có GSO *kiếm được tiền* khi có khách hàng mới.
+
+## 🎣 Hooks & Angles
+* "Nếu bạn chơi cùng một trò chơi như những người khác, bạn sẽ nhận được kết quả giống như những người khác (tầm thường)."
+* "Hầu hết các agency đều nói: Bạn trả tiền để chúng tôi làm việc. Có thể bạn có kết quả. Có thể không."
+
+## 🛠️ Frameworks & Strategies
+* **3 cách để phát triển doanh nghiệp:**
+    1.  Có thêm khách hàng (Get more customers).
+    2.  Tăng giá trị mua hàng trung bình của họ (Increase their average purchase value).
+    3.  Khiến họ mua hàng nhiều lần hơn (Get them to buy more times).
+* **2 Kiểu mua hàng:**
+    1.  **Commoditized (Bị hàng hóa hóa):** Mua hàng dựa trên Giá (Cuộc đua xuống đáy).
+    2.  **Differentiated (Được khác biệt hóa):** Mua hàng dựa trên Giá trị (Bán trong danh mục của riêng mình).
+
+## 💬 Golden Quotes
+* > "Tốt hơn hết là hiểu tại sao bạn thất bại còn hơn là không biết tại sao bạn thành công." (It is far better to have understood why you failed than to be ignorant of why you succeeded.)
