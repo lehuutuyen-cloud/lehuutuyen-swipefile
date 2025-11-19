@@ -1,0 +1,31 @@
+TITLE: The Road Less Stupid - Chương 1 - Những Khoản Tiền Ngu Đáng Sợ
+BOOK: The Road Less Stupid
+AUTHOR: Keith J. Cunningham
+URL: http://tuyen.biz/con-duong-bot-ngu
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-19
+TAGS: Keith J. Cunningham, Business, Thinking Time, Dumb Tax, booknote, The Road Less Stupid
+---
+
+## 🧠 Core Mindsets
+* **Kinh doanh là môn thể thao trí tuệ:** IQ cao không đảm bảo thành công. Thảm họa tài chính xảy ra không phải do IQ thấp mà do không chịu sử dụng nó (không chịu suy nghĩ).
+* **Định nghĩa "Tiền Ngu" (Dumb Tax):** Đây là khoản thuế bạn phải trả cho những quyết định dựa trên cảm xúc và bản ngã thay vì tư duy lý trí. Chìa khóa để giàu có không phải là làm điều thông minh hơn, mà là làm ít điều ngu ngốc hơn.
+* **Nghịch lý Cảm xúc - Trí tuệ:** Cảm xúc và trí tuệ tỉ lệ nghịch. Khi cảm xúc đi lên (hưng phấn với ý tưởng mới), trí tuệ đi xuống (mù quáng trước rủi ro).
+
+## 💡 Counter-intuitive Views
+* **Rắc rối bắt đầu từ "Ý tưởng tốt":** Hầu hết mọi thảm họa tài chính đều bắt đầu từ một ý tưởng được cho là "tốt" và hợp lý về mặt cảm xúc vào thời điểm đó.
+* **Lạc quan là kẻ thù:** Trong đầu tư và kinh doanh, sự lạc quan quá mức là một loại độc dược chết người, không phải là đức tính tốt.
+* **Không cần "Thông minh hơn":** Bạn không cần phải trở nên thông minh xuất chúng để thành công, bạn chỉ cần tránh những sai lầm ngu ngốc (tránh các cú "bogey đôi").
+
+## 🎣 Hooks & Angles
+* **Câu hỏi triệu đô (Hook):** "Bạn sẽ có thêm bao nhiêu tiền trong tài khoản ngay lúc này nếu bạn có khả năng nhấn nút 'Undo' (làm lại) cho 3 quyết định tài chính tồi tệ nhất trong quá khứ?".
+* **Góc tiếp cận (Angle):** Đừng cố tìm "bí mật" làm giàu. Không có bí mật nào cả, chỉ có những thứ bạn chưa chịu học và chưa chịu suy nghĩ thấu đáo.
+
+## 🛠️ Frameworks & Strategies
+* **Chiến lược "Thời Gian Suy Ngẫm" (Thinking Time) [Sơ khởi]:** Dành thời gian cụ thể để suy nghĩ cẩn trọng và lý trí, nhằm giảm bớt các quyết định bốc đồng dựa trên cảm xúc.
+
+## 💬 Golden Quotes
+* > "Cuộc sống thật khó khăn… nhưng sẽ khó khăn hơn nhiều nếu bạn ngu ngốc" – John Wayne
+* > "Sự lạc quan là kẻ thù của một nhà đầu tư khôn ngoan" – Warren Buffett
+* > "Tôi không cần phải làm những điều thông minh hơn. Tôi chỉ cần làm ít điều ngu ngốc hơn."
+* > "Mọi thứ không dễ dàng. Những ai thấy nó dễ dàng đều là những kẻ ngốc" – Charlie Munger
