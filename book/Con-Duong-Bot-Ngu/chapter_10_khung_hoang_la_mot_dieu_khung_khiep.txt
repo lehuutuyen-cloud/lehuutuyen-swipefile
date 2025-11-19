@@ -1,0 +1,36 @@
+TITLE: The Road Less Stupid - Chương 10 - Khủng Hoảng Là Một Điều Khủng Khiếp, Đừng Bỏ Lỡ
+BOOK: The Road Less Stupid
+AUTHOR: Keith J. Cunningham
+URL: http://tuyen.biz/con-duong-bot-ngu
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-19
+TAGS: Keith J. Cunningham, Business, Crisis Management, Risk Management, Resilience, booknote, The Road Less Stupid
+---
+
+## 🧠 Core Mindsets
+* **Thành công là thuốc gây mê:** Thành công trong quá khứ thường tạo ra ảo tưởng rằng bạn là thiên tài, khiến bạn trở nên kiêu ngạo và lơ là các nguyên tắc cơ bản. Một thị trường tốt sẽ che giấu mọi sai lầm, nhưng khi thị trường xấu đi, chúng sẽ bị phơi bày tàn nhẫn.
+* **Kinh tế xấu không phải là nguyên nhân:** Suy thoái kinh tế không *tạo ra* vấn đề tài chính cho doanh nghiệp bạn, nó chỉ *bộc lộ* những yếu kém vốn đã tồn tại (nợ quá nhiều, chi phí cao, nhân sự tồi) mà bạn đã lờ đi khi mọi thứ còn tốt đẹp.
+* **Kiếm tiền vs. Giữ tiền:** Đạt được thành công là một chuyện, giữ được nó là chuyện khác. Chúng ta nên ngưỡng mộ những người *giữ* được thành công qua sóng gió, chứ không phải những kẻ phất lên nhờ gặp thời.
+* **Tiền mặt là Vua (Cash is King):** Đừng để những tài sản trên giấy hay doanh thu dự kiến đánh lừa. Khi hết tiền mặt, bạn nghỉ chơi. Sự thiếu hụt tiền mặt là đá Kryptonite giết chết mọi siêu anh hùng kinh doanh.
+
+## 💡 Counter-intuitive Views
+* **Quy luật 90/10 chết người:** Một dự án/khách hàng tồi sẽ ngốn 90% thời gian của bạn, khiến bạn bỏ bê những dự án tốt. Tư duy thông thường là "cố cứu cái xấu". Tư duy đúng là "giết cái xấu" để dồn 90% thời gian chăm sóc cái tốt.
+* **Người bán luôn sai? Sai lầm!:** Có câu ngạn ngữ "Người bán luôn sai" (ý nói giữ lại sẽ lời hơn). Nhưng khi khủng hoảng đến, "Bán thật sớm" là cách duy nhất để sống sót. Đừng hy vọng giá sẽ hồi phục vào ngày mai khi hôm nay bạn đang chảy máu.
+* **Đừng tấn công, hãy phòng thủ:** Không ai thắng cuộc chơi chỉ bằng cách tấn công. Các đội vô địch luôn có hàng phòng thủ tuyệt vời. Trong kinh doanh, đó là sự hoài nghi, dự trữ tiền mặt và quản trị rủi ro.
+
+## 🎣 Hooks & Angles
+* **Mồi câu (Hook):** "Tại sao việc kiếm được 1 triệu đô la đầu tiên có thể là khởi đầu cho sự phá sản của bạn? (Bài học về 'Tiền Ngu' từ cuộc khủng hoảng bất động sản)".
+* **Góc tiếp cận (Angle):** "Bạn đang điều hành doanh nghiệp hay đang chơi bạc? Dấu hiệu nhận biết là cách bạn đối xử với 'Kế hoạch B' (Dự phòng)".
+* **Tiêu đề:** "3.500 ngân hàng biến mất và bài học xương máu: Đừng bao giờ bắt dao rơi".
+
+## 🛠️ Frameworks & Strategies
+* **Chiến lược "Cắt lỗ sớm" (Cut losses early):** Khi nhận ra sai lầm (nhân sự kém, dự án tồi), hãy hành động ngay lập tức. Sự trì hoãn với hy vọng "mọi thứ sẽ tốt hơn" là ảo tưởng đắt giá nhất. Cắt lỗ sớm, giữ tiền mặt, và sống sót.
+* **Nguyên tắc "3 Giao dịch Tốt":** Phải cần đến 3 giao dịch tốt mới bù đắp được thiệt hại của 1 giao dịch xấu. Vì vậy, thà bỏ lỡ cơ hội còn hơn là mất vốn.
+* **Bộ lọc Tuyển dụng thời Khủng hoảng:** Thời điểm càng khó khăn, càng cần người giỏi. Không có cách nào tồn tại trong thị trường kém với những nhân viên yếu kém. Hãy sa thải nhân viên hạng C ngay lập tức, đừng "trông trẻ".
+
+## 💬 Golden Quotes
+* > "Chúng tôi không ngưỡng mộ những người đạt được thành công. Chúng tôi ngưỡng mộ những người giữ được thành công."
+* > "Nền kinh tế kém không tạo ra các vấn đề tài chính; nó chỉ giúp bộc lộ chúng ra."
+* > "Một sai lầm không phải là tội lỗi, trừ khi nó không được thừa nhận." – Buckminster Fuller
+* > "Khi hết tiền, bạn nghỉ kinh doanh. Tiền thực sự là VUA."
+* > "Phải cần ba giao dịch tốt mới bù đắp lại được một giao dịch kém."
