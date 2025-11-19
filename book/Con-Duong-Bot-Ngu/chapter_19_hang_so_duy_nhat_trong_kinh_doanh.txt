@@ -1,0 +1,36 @@
+TITLE: The Road Less Stupid - Chương 19 - Hằng Số Duy Nhất Trong Kinh Doanh Là…
+BOOK: The Road Less Stupid
+AUTHOR: Keith J. Cunningham
+URL: http://tuyen.biz/con-duong-bot-ngu
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-20
+TAGS: Keith J. Cunningham, Business, Change Management, Evolution, Adaptability, booknote, The Road Less Stupid
+---
+
+## 🧠 Core Mindsets
+* **Đáp án luôn thay đổi:** Đừng tìm kiếm một câu trả lời đúng vĩnh viễn cho bài toán kinh doanh. Câu hỏi (Vấn đề) có thể giữ nguyên, nhưng Đáp án (Giải pháp) sẽ thay đổi theo thị trường. Sự bám chấp vào "đáp án cũ" (kinh nghiệm quá khứ) là nguyên nhân của sự sụp đổ.
+* **Phát triển (Grow) ≠ Tiến hóa (Evolve):** Phát triển là làm những gì đang làm nhưng nhiều hơn (Quy mô). Tiến hóa là thay đổi cách làm để phù hợp với môi trường mới (Thích nghi). Các công ty chết vì họ mải mê "Phát triển" mà quên mất "Tiến hóa".
+* **Bối cảnh quyết định Giá trị:** Một ý tưởng không tự nhiên "tốt" hay "xấu". Nó tốt hay xấu phụ thuộc hoàn toàn vào môi trường. Mua cổ phiếu công nghệ năm 1999 là thiên tài, năm 2000 là thảm họa. Đừng yêu ý tưởng, hãy yêu sự phù hợp với thời điểm.
+
+## 💡 Counter-intuitive Views
+* **Kinh nghiệm là kẻ thù:** Thành công trong quá khứ thường khiến bạn tin rằng bạn đã tìm ra "công thức bí mật". Nhưng khi môi trường thay đổi, chính "công thức" đó sẽ giết chết bạn vì nó ngăn cản bạn đặt ra những câu hỏi mới. Sự kiêu ngạo của kẻ chiến thắng nguy hiểm hơn sự ngu dốt của kẻ mới bắt đầu.
+* **Ổn định là ảo giác:** Hằng số duy nhất là sự thay đổi. Nếu bạn đang xây dựng doanh nghiệp dựa trên giả định rằng "mọi thứ sẽ cứ như thế này mãi", bạn đang xây lâu đài trên cát. Sự an toàn thực sự nằm ở khả năng linh hoạt (Agility), không phải ở sự kiên định (Consistency) mù quáng.
+
+## 🎣 Hooks & Angles
+* **Mồi câu (Hook):** "Tại sao Albert Einstein dùng cùng một đề thi trong suốt 20 năm? (Bí mật về tư duy thích nghi mà 87% công ty Fortune 500 đã bỏ lỡ)".
+* **Góc tiếp cận (Angle):** "Bạn đang 'Nuôi lớn' (Grow) hay đang 'Tiến hóa' (Evolve)? Sự khác biệt này trị giá hàng tỷ đô la (hãy hỏi Kodak và Yahoo)".
+* **Tiêu đề:** "Khi 'Ý tưởng tốt' trở thành 'Thuốc độc': Tại sao chiến lược năm ngoái đang giết chết bạn năm nay".
+
+## 🛠️ Frameworks & Strategies
+* **Quy trình "Kiểm tra Hạn sử dụng" (Expiration Audit):**
+    * Định kỳ (mỗi quý/năm), hãy lôi các "Chiến lược cốt lõi" ra và hỏi:
+    * 1. Môi trường (Kinh tế, Công nghệ, Khách hàng) đã thay đổi thế nào?
+    * 2. Kỳ vọng của khách hàng hôm nay khác gì với 3 năm trước?
+    * 3. Chuyên môn của chúng ta có còn phù hợp (relevant) không hay đã lỗi thời?
+    * 4. Chúng ta cần "Hủy bỏ" (Unlearn) điều gì và "Học mới" (Relearn) điều gì?
+
+## 💬 Golden Quotes
+* > "Hằng số duy nhất trong kinh doanh chính là sự thay đổi."
+* > "Tại sao ông dùng cùng một đề thi? - Bởi vì đáp án liên tục thay đổi." – Albert Einstein
+* > "Lý do các công ty mất đi thế mạnh... là bởi vì họ tiếp tục phát triển, nhưng không tiến hóa."
+* > "Câu trả lời của ngày hôm qua hiếm khi giải quyết được các vấn đề của ngày mai."
