@@ -1,0 +1,44 @@
+TITLE: The Road Less Stupid - Chương 9 - Một CEO Đừng Bao Giờ Uỷ Thác
+BOOK: The Road Less Stupid
+AUTHOR: Keith J. Cunningham
+URL: http://tuyen.biz/con-duong-bot-ngu
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-19
+TAGS: Keith J. Cunningham, Business, Leadership, Delegation, HR, booknote, The Road Less Stupid
+---
+
+## 🧠 Core Mindsets
+* **Ảo tưởng về Ủy thác:** Có 7 công việc sống còn mà CEO *không bao giờ* được phép ủy thác. Nếu bạn giao phó việc định hình tầm nhìn, văn hóa, hay phân bổ nguồn lực cho người khác, bạn không còn là CEO nữa, bạn chỉ là một cổ đông thụ động đang chờ phá sản.
+* **Ưu tiên phải đi kèm Nguồn lực:** Bạn không thể nói "Đây là ưu tiên mới" mà vẫn giữ nguyên ngân sách và nhân sự cũ. Thay đổi mục tiêu đòi hỏi phải cắt giảm cái cũ để dồn lực cho cái mới. Làm thêm việc mà không thêm nguồn lực là công thức của sự thất bại.
+* **Nhân viên số 1 là người tự chủ:** Bạn không cần phải "dỗ dành" hay "thúc đít" nhân viên giỏi. Nếu bạn phải liên tục truyền động lực cho ai đó để họ làm việc, bạn đã tuyển sai người.
+
+## 💡 Counter-intuitive Views
+* **Động lực là dành cho kẻ nghiệp dư:** Những tay chuyên nghiệp (Pro) không cần ai truyền động lực. Họ làm việc vì danh dự và tiêu chuẩn của chính họ. Đừng cố làm "Diễn giả truyền cảm hứng" cho nhân viên, hãy làm một Huấn luyện viên (Coach) đưa ra thử thách.
+* **Nhân viên giỏi YÊU THÍCH bị kiểm soát (bằng bảng điểm):** Chỉ có nhân viên hạng B và C mới sợ bị đo lường. Nhân viên hạng A khao khát có một bảng điểm rõ ràng để chứng minh họ đang thắng. Nếu bạn không đo lường, người giỏi sẽ bỏ đi vì họ không thấy được sự ghi nhận.
+* **Đừng bao giờ "Giải quyết vấn đề":** Khi nhân viên mang vấn đề đến, đừng nhảy vào giải quyết (đó là việc của Người vận hành). Hãy hỏi: "Bạn đề xuất gì?". Công việc của CEO là đào tạo tư duy giải quyết vấn đề, không phải làm thay.
+
+## 🎣 Hooks & Angles
+* **Mồi câu (Hook):** "Tại sao Steve Jobs, Bill Gates và Warren Buffett không bao giờ ủy thác 7 việc này? (Và tại sao bạn đang mất tiền vì cố gắng 'tự động hóa' doanh nghiệp)".
+* **Góc tiếp cận (Angle):** "Ngừng truyền động lực cho nhân viên đi! (Hãy làm điều này thay thế để có một đội ngũ chiến binh)".
+* **Tiêu đề:** "Dấu hiệu nhận biết nhân viên Hạng A: Họ sẽ hỏi bạn 3 câu này ngay ngày đầu đi làm".
+
+## 🛠️ Frameworks & Strategies
+* **7 Công việc CEO không được ủy thác:**
+    1.  Làm rõ Điểm A (Thực tại) và Điểm B (Tầm nhìn).
+    2.  Xác định Khoảng cách và Trở ngại.
+    3.  Thiết kế Kế hoạch và Bộ máy (Chiến lược).
+    4.  Phân bổ Nguồn lực (Tiền & Người).
+    5.  Xây dựng Bảng điểm cho nhân viên.
+    6.  Xây dựng Sơ đồ tổ chức (Ai chịu trách nhiệm gì).
+    7.  Xây dựng Văn hóa (Luật chơi).
+* **3 Câu hỏi của Nhân viên Hạng A (Dấu hiệu nhận biết):**
+    1.  Tôi có thể làm gì khác nữa không?
+    2.  Tôi có thể làm giỏi hơn ở chỗ nào?
+    3.  Tôi cần học thêm gì để phát triển?
+
+## 💬 Golden Quotes
+* > "Động lực là thứ dành cho dân nghiệp dư. Những tay chuyên nghiệp không cần động lực."
+* > "Cái giá cho một nhân viên tồi không bao giờ chỉ là tiền lương."
+* > "Việc thay đổi thứ tự ưu tiên mà không thay đổi phân bổ nguồn lực là một điều ảo tưởng."
+* > "Sẽ không có gì thay đổi nếu không có gì thay đổi."
+* > "Một siêu sao cao 2,1m có giá trị hơn 10 cầu thủ cao 1,5m."
