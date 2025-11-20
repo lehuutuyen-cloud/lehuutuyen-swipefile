@@ -1,0 +1,42 @@
+TITLE: The Road Less Stupid - Chương 29 - Sự Thực Thi
+BOOK: The Road Less Stupid
+AUTHOR: Keith J. Cunningham
+URL: http://tuyen.biz/con-duong-bot-ngu
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-20
+TAGS: Keith J. Cunningham, Business, Execution, Strategy, Consistency, booknote, The Road Less Stupid
+---
+
+## 🧠 Core Mindsets
+
+* **Chiến lược ngược (Resource-First Strategy):** Đừng bao giờ bắt đầu bằng câu hỏi "Chiến lược nào hay nhất?". Hãy bắt đầu bằng "Tôi đang có cái gì?". Hầu hết mọi người thất bại vì chọn một chiến lược tuyệt vời (của người khác) mà họ không đủ năng lực hoặc tài chính để thực thi. Chiến lược phải phục tùng Nguồn lực, không phải ngược lại.
+* **Thời gian giết chết Lựa chọn:** Nếu bạn có 5 năm, bạn có thể chọn làm thương hiệu. Nếu bạn chỉ còn tiền mặt cho 3 tháng, bạn chỉ có một lựa chọn: Bán hàng ngay lập tức. Đừng chọn chiến lược dài hạn cho một vấn đề cấp bách.
+* **Sự nhất quán > Sự hoàn hảo:** Một chiến lược hạng B được thực thi nhất quán mỗi ngày sẽ đánh bại một chiến lược hạng A được thực thi thất thường. Vấn đề không nằm ở bản kế hoạch, vấn đề nằm ở việc bạn có "sẵn lòng" làm nó mỗi ngày không.
+
+## 💡 Counter-intuitive Views
+
+* **Đừng bắt đầu với "Mục tiêu lớn":** Sách vở thường dạy hãy mơ lớn, vẽ ra tầm nhìn, rồi tìm cách đạt được. Cunningham nói: Hãy nhìn xuống chân bạn. Bạn có gì? Bạn giỏi cái gì? Hãy bắt đầu từ đó. Việc cố gắng thực hiện một kế hoạch đòi hỏi những kỹ năng bạn *không có* là công thức của sự thảm bại.
+* **Giày bóng không giúp bạn chạy nhanh hơn:** Chúng ta thường trì hoãn việc hành động (Thực thi) để trau chuốt những thứ bề ngoài (Website đẹp, Logo xịn, Văn phòng sang). Đó là "đôi giày bóng loáng". Nó làm bạn cảm thấy chuyên nghiệp, nhưng không giúp bạn về đích sớm hơn. Hãy bắt đầu với đôi giày cũ nhưng đôi chân khỏe.
+* **Mục tiêu không phải là "Kéo hết neo lên":** Để con tàu di chuyển, bạn không cần kéo mỏ neo lên tận boong tàu (Hoàn hảo). Bạn chỉ cần kéo nó "rời khỏi đáy biển" một chút thôi (Bắt đầu). Đừng để sự hoàn hảo ngăn cản sự tiến bộ.
+
+## 🎣 Hooks & Angles
+
+* **Mồi câu 1 (Nghịch lý):** "Tại sao một 'Chiến lược tồi' lại có thể giúp bạn kiếm nhiều tiền hơn một 'Chiến lược hoàn hảo'? (Bí mật nằm ở hai chữ: Nhất quán)".
+* **Mồi câu 2 (Cảnh báo):** "Bạn đang đi 'Giày bóng loáng' hay đang 'Chạy nhanh'? Dấu hiệu nhận biết bạn đang lãng phí thời gian vào những việc vô bổ".
+* **Mồi câu 3 (Tư duy):** "Đừng nghe lời các Guru bảo bạn 'Tìm kiếm Giải pháp'. Hãy nhìn vào túi quần của bạn trước. (Tại sao Nguồn lực phải đi trước Chiến lược)".
+* **Góc tiếp cận cho Video Short:** "Đừng mơ mộng nữa! Nếu bạn cần tiền vào ngày mai, đừng làm SEO. Đây là lý do Thời gian là kẻ thù của Lựa chọn...".
+
+## 🛠️ Frameworks & Strategies
+
+* **Bộ lọc "Thực thi Khả thi" (The Feasibility Filter):**
+    Trước khi chốt bất kỳ chiến lược nào, hãy chạy nó qua 3 câu hỏi kiểm tra thực tế:
+    1.  **Năng lực:** Tôi có *thực sự* giỏi việc này không? (Hay tôi phải đi học/thuê mới làm được?).
+    2.  **Sẵn lòng:** Tôi có *muốn* làm việc này mỗi ngày trong 3 năm tới không?
+    3.  **Nguồn lực:** Giải pháp này có phù hợp với túi tiền và thời gian hiện có của tôi không? (Nếu tôi chỉ có 1.000$, tôi sẽ làm gì khác với lúc có 10.000$?).
+
+## 💬 Golden Quotes
+
+* > "Một đôi giày sáng bóng không giúp bạn đi nhanh hơn."
+* > "Thời gian là kẻ thù của lựa chọn. Thời gian càng ngắn, lựa chọn càng ít."
+* > "Mục tiêu không phải là cuốn hết dây neo lên thuyền. Để tiến lên phía trước, chúng ta chỉ cần cuốn neo lên khỏi đáy biển một chút thôi."
+* > "Một ý tưởng tốt đối với bạn có thể là một ý tưởng tồi đối với tôi."
