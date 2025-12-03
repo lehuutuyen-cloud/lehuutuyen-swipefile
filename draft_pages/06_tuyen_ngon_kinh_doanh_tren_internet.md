@@ -1,5 +1,5 @@
 ---
-title: "Tuyên Ngôn Kinh Doanh Trên Internet - Phiên bản 2025 | Lối Thoát Khỏi Sự Hỗn Loạn"
+title: "Manifesto"
 url_slug: "/tuyen-ngon"
 type: "Core Page"
 status: "Published"
@@ -10,14 +10,18 @@ awareness_level: "Problem Aware"
 
 > (TRANG 01: BÌA)
 
-**"Một doanh nghiệp lớn thực ra chỉ là một doanh nghiệp nhỏ đã làm đúng những việc cần làm..."**
+> (Câu Quote)
+
+### **"Một doanh nghiệp lớn... thực ra chỉ là một doanh nghiệp nhỏ đã làm đúng những việc cần làm..."**
 
 ![matrix-internet-business-manifesto](https://github.com/user-attachments/assets/3da9ee8a-5491-4bda-851c-a151fbc53c2f)
 
 # TUYÊN NGÔN KINH DOANH TRÊN INTERNET
 _(The Internet Business Manifesto - Vietnam 2025)_
 
-**Một Chủ Doanh Nghiệp Giàu Có Từng Là Kẻ Tìm Kiếm Cơ Hội, Sau Đó Trở Thành Một Doanh Nhân…**
+### **Một Chủ Doanh Nghiệp Giàu Có Từng Là Kẻ Tìm Kiếm Cơ Hội, Sau Đó Trở Thành Một Doanh Nhân…**
+
+> Sub Dự Phòng: Từ Một Kẻ Nghiện Săn Tìm Cơ Hội... Đến Một Doanh Nhân Sở Hữu Sự Tự Do.
 
 **TRONG TÀI LIỆU NÀY, BẠN SẼ KHÁM PHÁ:**
 - Tại sao **"làm việc chăm chỉ hơn"** không phải là câu trả lời (thực tế, đó có thể là lý do khiến bạn mãi dậm chân tại chỗ trong khi người khác đã tiến xa).
